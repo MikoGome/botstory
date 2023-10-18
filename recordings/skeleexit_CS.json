@@ -1,0 +1,5239 @@
+[
+    [
+        {
+            "name": "y",
+            "type": "down",
+            "time_delay": 0.5598931312561035
+        },
+        {
+            "name": "y",
+            "type": "up",
+            "time_delay": 0.08193373680114746
+        },
+        {
+            "name": "right",
+            "type": "down",
+            "time_delay": 1.6078135967254639
+        },
+        {
+            "name": "up",
+            "type": "down",
+            "time_delay": 0.0878450870513916
+        },
+        {
+            "name": "up",
+            "type": "down",
+            "time_delay": 0.4963095188140869
+        },
+        {
+            "name": "up",
+            "type": "down",
+            "time_delay": 0.03344011306762695
+        },
+        {
+            "name": "up",
+            "type": "down",
+            "time_delay": 0.03195309638977051
+        },
+        {
+            "name": "up",
+            "type": "down",
+            "time_delay": 0.034850120544433594
+        },
+        {
+            "name": "up",
+            "type": "down",
+            "time_delay": 0.029862403869628906
+        },
+        {
+            "name": "up",
+            "type": "down",
+            "time_delay": 0.033103227615356445
+        },
+        {
+            "name": "right",
+            "type": "up",
+            "time_delay": 0.01296377182006836
+        },
+        {
+            "name": "up",
+            "type": "up",
+            "time_delay": 0.018524646759033203
+        },
+        {
+            "name": "t",
+            "type": "down",
+            "time_delay": 0.16762757301330566
+        },
+        {
+            "name": "t",
+            "type": "up",
+            "time_delay": 0.09937143325805664
+        },
+        {
+            "name": "up",
+            "type": "down",
+            "time_delay": 2.0605180263519287
+        },
+        {
+            "name": "right",
+            "type": "down",
+            "time_delay": 0.07646942138671875
+        },
+        {
+            "name": "right",
+            "type": "down",
+            "time_delay": 0.4976511001586914
+        },
+        {
+            "name": "right",
+            "type": "down",
+            "time_delay": 0.03371095657348633
+        },
+        {
+            "name": "right",
+            "type": "down",
+            "time_delay": 0.028750896453857422
+        },
+        {
+            "name": "right",
+            "type": "down",
+            "time_delay": 0.03342390060424805
+        },
+        {
+            "name": "right",
+            "type": "down",
+            "time_delay": 0.03291726112365723
+        },
+        {
+            "name": "right",
+            "type": "down",
+            "time_delay": 0.0350034236907959
+        },
+        {
+            "name": "right",
+            "type": "down",
+            "time_delay": 0.0308229923248291
+        },
+        {
+            "name": "right",
+            "type": "down",
+            "time_delay": 0.030916690826416016
+        },
+        {
+            "name": "right",
+            "type": "down",
+            "time_delay": 0.03416109085083008
+        },
+        {
+            "name": "right",
+            "type": "down",
+            "time_delay": 0.03429365158081055
+        },
+        {
+            "name": "right",
+            "type": "down",
+            "time_delay": 0.03154587745666504
+        },
+        {
+            "name": "right",
+            "type": "down",
+            "time_delay": 0.03329586982727051
+        },
+        {
+            "name": "right",
+            "type": "down",
+            "time_delay": 0.034063100814819336
+        },
+        {
+            "name": "right",
+            "type": "down",
+            "time_delay": 0.030915260314941406
+        },
+        {
+            "name": "right",
+            "type": "down",
+            "time_delay": 0.03392815589904785
+        },
+        {
+            "name": "right",
+            "type": "down",
+            "time_delay": 0.03100275993347168
+        },
+        {
+            "name": "right",
+            "type": "down",
+            "time_delay": 0.036151885986328125
+        },
+        {
+            "name": "right",
+            "type": "down",
+            "time_delay": 0.032057762145996094
+        },
+        {
+            "name": "right",
+            "type": "down",
+            "time_delay": 0.03118419647216797
+        },
+        {
+            "name": "right",
+            "type": "down",
+            "time_delay": 0.0330653190612793
+        },
+        {
+            "name": "right",
+            "type": "down",
+            "time_delay": 0.032911062240600586
+        },
+        {
+            "name": "right",
+            "type": "down",
+            "time_delay": 0.034483909606933594
+        },
+        {
+            "name": "right",
+            "type": "down",
+            "time_delay": 0.030972957611083984
+        },
+        {
+            "name": "right",
+            "type": "down",
+            "time_delay": 0.03329586982727051
+        },
+        {
+            "name": "right",
+            "type": "down",
+            "time_delay": 0.03404593467712402
+        },
+        {
+            "name": "right",
+            "type": "down",
+            "time_delay": 0.02942204475402832
+        },
+        {
+            "name": "right",
+            "type": "down",
+            "time_delay": 0.03531241416931152
+        },
+        {
+            "name": "right",
+            "type": "down",
+            "time_delay": 0.02992558479309082
+        },
+        {
+            "name": "right",
+            "type": "down",
+            "time_delay": 0.03505301475524902
+        },
+        {
+            "name": "right",
+            "type": "down",
+            "time_delay": 0.030864715576171875
+        },
+        {
+            "name": "right",
+            "type": "down",
+            "time_delay": 0.03475761413574219
+        },
+        {
+            "name": "right",
+            "type": "down",
+            "time_delay": 0.030729055404663086
+        },
+        {
+            "name": "right",
+            "type": "down",
+            "time_delay": 0.03515768051147461
+        },
+        {
+            "name": "right",
+            "type": "down",
+            "time_delay": 0.034084320068359375
+        },
+        {
+            "name": "right",
+            "type": "down",
+            "time_delay": 0.028856515884399414
+        },
+        {
+            "name": "right",
+            "type": "down",
+            "time_delay": 0.034175872802734375
+        },
+        {
+            "name": "right",
+            "type": "down",
+            "time_delay": 0.033948421478271484
+        },
+        {
+            "name": "right",
+            "type": "down",
+            "time_delay": 0.03138399124145508
+        },
+        {
+            "name": "right",
+            "type": "down",
+            "time_delay": 0.034958839416503906
+        },
+        {
+            "name": "right",
+            "type": "down",
+            "time_delay": 0.0314488410949707
+        },
+        {
+            "name": "right",
+            "type": "down",
+            "time_delay": 0.031192541122436523
+        },
+        {
+            "name": "right",
+            "type": "down",
+            "time_delay": 0.03206586837768555
+        },
+        {
+            "name": "right",
+            "type": "down",
+            "time_delay": 0.03480672836303711
+        },
+        {
+            "name": "right",
+            "type": "down",
+            "time_delay": 0.031116724014282227
+        },
+        {
+            "name": "right",
+            "type": "down",
+            "time_delay": 0.03232216835021973
+        },
+        {
+            "name": "right",
+            "type": "down",
+            "time_delay": 0.03505992889404297
+        },
+        {
+            "name": "right",
+            "type": "down",
+            "time_delay": 0.03401350975036621
+        },
+        {
+            "name": "right",
+            "type": "down",
+            "time_delay": 0.031676292419433594
+        },
+        {
+            "name": "right",
+            "type": "down",
+            "time_delay": 0.03006458282470703
+        },
+        {
+            "name": "right",
+            "type": "down",
+            "time_delay": 0.03409004211425781
+        },
+        {
+            "name": "right",
+            "type": "down",
+            "time_delay": 0.03516960144042969
+        },
+        {
+            "name": "right",
+            "type": "down",
+            "time_delay": 0.03203725814819336
+        },
+        {
+            "name": "right",
+            "type": "down",
+            "time_delay": 0.030521154403686523
+        },
+        {
+            "name": "right",
+            "type": "down",
+            "time_delay": 0.03507876396179199
+        },
+        {
+            "name": "right",
+            "type": "down",
+            "time_delay": 0.03288865089416504
+        },
+        {
+            "name": "right",
+            "type": "down",
+            "time_delay": 0.03166675567626953
+        },
+        {
+            "name": "right",
+            "type": "down",
+            "time_delay": 0.03466033935546875
+        },
+        {
+            "name": "right",
+            "type": "down",
+            "time_delay": 0.028963804244995117
+        },
+        {
+            "name": "right",
+            "type": "down",
+            "time_delay": 0.03606891632080078
+        },
+        {
+            "name": "right",
+            "type": "down",
+            "time_delay": 0.031076908111572266
+        },
+        {
+            "name": "right",
+            "type": "down",
+            "time_delay": 0.033785104751586914
+        },
+        {
+            "name": "right",
+            "type": "down",
+            "time_delay": 0.03032708168029785
+        },
+        {
+            "name": "right",
+            "type": "down",
+            "time_delay": 0.03390955924987793
+        },
+        {
+            "name": "right",
+            "type": "down",
+            "time_delay": 0.0322268009185791
+        },
+        {
+            "name": "right",
+            "type": "down",
+            "time_delay": 0.035750389099121094
+        },
+        {
+            "name": "up",
+            "type": "up",
+            "time_delay": 0.0010006427764892578
+        },
+        {
+            "name": "right",
+            "type": "up",
+            "time_delay": 0.0
+        },
+        {
+            "name": "l",
+            "type": "down",
+            "time_delay": 0.19078922271728516
+        },
+        {
+            "name": "l",
+            "type": "up",
+            "time_delay": 0.11402082443237305
+        },
+        {
+            "name": "l",
+            "type": "down",
+            "time_delay": 0.819267749786377
+        },
+        {
+            "name": "l",
+            "type": "up",
+            "time_delay": 0.05080699920654297
+        },
+        {
+            "name": "l",
+            "type": "down",
+            "time_delay": 0.18201875686645508
+        },
+        {
+            "name": "l",
+            "type": "up",
+            "time_delay": 0.12172865867614746
+        },
+        {
+            "name": "left",
+            "type": "down",
+            "time_delay": 1.5966403484344482
+        },
+        {
+            "name": "space",
+            "type": "down",
+            "time_delay": 0.06253910064697266
+        },
+        {
+            "name": "space",
+            "type": "up",
+            "time_delay": 0.1241919994354248
+        },
+        {
+            "name": "l",
+            "type": "down",
+            "time_delay": 0.5291647911071777
+        },
+        {
+            "name": "l",
+            "type": "up",
+            "time_delay": 0.12089967727661133
+        },
+        {
+            "name": "l",
+            "type": "down",
+            "time_delay": 0.34947872161865234
+        },
+        {
+            "name": "l",
+            "type": "up",
+            "time_delay": 0.09082198143005371
+        },
+        {
+            "name": "l",
+            "type": "down",
+            "time_delay": 0.5978631973266602
+        },
+        {
+            "name": "l",
+            "type": "up",
+            "time_delay": 0.13211464881896973
+        },
+        {
+            "name": "l",
+            "type": "down",
+            "time_delay": 0.42810702323913574
+        },
+        {
+            "name": "l",
+            "type": "up",
+            "time_delay": 0.12032771110534668
+        },
+        {
+            "name": "left",
+            "type": "up",
+            "time_delay": 1.2072257995605469
+        },
+        {
+            "name": "right",
+            "type": "down",
+            "time_delay": 1.1324236392974854
+        },
+        {
+            "name": "space",
+            "type": "down",
+            "time_delay": 0.10846567153930664
+        },
+        {
+            "name": "space",
+            "type": "up",
+            "time_delay": 0.07003593444824219
+        },
+        {
+            "name": "space",
+            "type": "down",
+            "time_delay": 0.07333588600158691
+        },
+        {
+            "name": "space",
+            "type": "up",
+            "time_delay": 0.08576798439025879
+        },
+        {
+            "name": "space",
+            "type": "down",
+            "time_delay": 0.2939915657043457
+        },
+        {
+            "name": "space",
+            "type": "up",
+            "time_delay": 0.055753231048583984
+        },
+        {
+            "name": "space",
+            "type": "down",
+            "time_delay": 0.07395124435424805
+        },
+        {
+            "name": "space",
+            "type": "up",
+            "time_delay": 0.09029459953308105
+        },
+        {
+            "name": "z",
+            "type": "down",
+            "time_delay": 0.984947919845581
+        },
+        {
+            "name": "left",
+            "type": "down",
+            "time_delay": 0.021869421005249023
+        },
+        {
+            "name": "z",
+            "type": "up",
+            "time_delay": 0.043067216873168945
+        },
+        {
+            "name": "right",
+            "type": "up",
+            "time_delay": 0.02722477912902832
+        },
+        {
+            "name": "z",
+            "type": "down",
+            "time_delay": 0.047617197036743164
+        },
+        {
+            "name": "z",
+            "type": "up",
+            "time_delay": 0.09546875953674316
+        },
+        {
+            "name": "z",
+            "type": "down",
+            "time_delay": 0.06281876564025879
+        },
+        {
+            "name": "z",
+            "type": "up",
+            "time_delay": 0.08697772026062012
+        },
+        {
+            "name": "z",
+            "type": "down",
+            "time_delay": 0.06710100173950195
+        },
+        {
+            "name": "z",
+            "type": "up",
+            "time_delay": 0.08872556686401367
+        },
+        {
+            "name": "up",
+            "type": "down",
+            "time_delay": 0.037046194076538086
+        },
+        {
+            "name": "z",
+            "type": "down",
+            "time_delay": 0.039624929428100586
+        },
+        {
+            "name": "z",
+            "type": "up",
+            "time_delay": 0.061135292053222656
+        },
+        {
+            "name": "up",
+            "type": "up",
+            "time_delay": 0.0220334529876709
+        },
+        {
+            "name": "up",
+            "type": "down",
+            "time_delay": 0.06382250785827637
+        },
+        {
+            "name": "z",
+            "type": "down",
+            "time_delay": 0.00485992431640625
+        },
+        {
+            "name": "up",
+            "type": "up",
+            "time_delay": 0.026358366012573242
+        },
+        {
+            "name": "z",
+            "type": "up",
+            "time_delay": 0.021991729736328125
+        },
+        {
+            "name": "z",
+            "type": "down",
+            "time_delay": 0.06444573402404785
+        },
+        {
+            "name": "z",
+            "type": "up",
+            "time_delay": 0.07844948768615723
+        },
+        {
+            "name": "z",
+            "type": "down",
+            "time_delay": 0.07091331481933594
+        },
+        {
+            "name": "z",
+            "type": "up",
+            "time_delay": 0.07694458961486816
+        },
+        {
+            "name": "z",
+            "type": "down",
+            "time_delay": 0.06338930130004883
+        },
+        {
+            "name": "up",
+            "type": "down",
+            "time_delay": 0.05027270317077637
+        },
+        {
+            "name": "z",
+            "type": "up",
+            "time_delay": 0.034737586975097656
+        },
+        {
+            "name": "up",
+            "type": "up",
+            "time_delay": 0.044432878494262695
+        },
+        {
+            "name": "z",
+            "type": "down",
+            "time_delay": 0.025008201599121094
+        },
+        {
+            "name": "z",
+            "type": "up",
+            "time_delay": 0.07592296600341797
+        },
+        {
+            "name": "z",
+            "type": "down",
+            "time_delay": 0.07148075103759766
+        },
+        {
+            "name": "z",
+            "type": "up",
+            "time_delay": 0.07884693145751953
+        },
+        {
+            "name": "z",
+            "type": "down",
+            "time_delay": 0.06874489784240723
+        },
+        {
+            "name": "z",
+            "type": "up",
+            "time_delay": 0.07530522346496582
+        },
+        {
+            "name": "z",
+            "type": "down",
+            "time_delay": 0.07576823234558105
+        },
+        {
+            "name": "z",
+            "type": "up",
+            "time_delay": 0.06909322738647461
+        },
+        {
+            "name": "z",
+            "type": "down",
+            "time_delay": 0.08156251907348633
+        },
+        {
+            "name": "z",
+            "type": "up",
+            "time_delay": 0.06973981857299805
+        },
+        {
+            "name": "z",
+            "type": "down",
+            "time_delay": 0.07917380332946777
+        },
+        {
+            "name": "z",
+            "type": "up",
+            "time_delay": 0.052866220474243164
+        },
+        {
+            "name": "z",
+            "type": "down",
+            "time_delay": 0.10944342613220215
+        },
+        {
+            "name": "z",
+            "type": "up",
+            "time_delay": 0.06580305099487305
+        },
+        {
+            "name": "z",
+            "type": "down",
+            "time_delay": 0.06781697273254395
+        },
+        {
+            "name": "z",
+            "type": "up",
+            "time_delay": 0.06919598579406738
+        },
+        {
+            "name": "z",
+            "type": "down",
+            "time_delay": 0.08690834045410156
+        },
+        {
+            "name": "z",
+            "type": "up",
+            "time_delay": 0.07196354866027832
+        },
+        {
+            "name": "z",
+            "type": "down",
+            "time_delay": 0.09292101860046387
+        },
+        {
+            "name": "z",
+            "type": "up",
+            "time_delay": 0.08206319808959961
+        },
+        {
+            "name": "z",
+            "type": "down",
+            "time_delay": 0.0741424560546875
+        },
+        {
+            "name": "z",
+            "type": "up",
+            "time_delay": 0.08034348487854004
+        },
+        {
+            "name": "z",
+            "type": "down",
+            "time_delay": 0.06488680839538574
+        },
+        {
+            "name": "space",
+            "type": "down",
+            "time_delay": 0.07224249839782715
+        },
+        {
+            "name": "space",
+            "type": "up",
+            "time_delay": 0.10187315940856934
+        },
+        {
+            "name": "up",
+            "type": "down",
+            "time_delay": 0.07317280769348145
+        },
+        {
+            "name": "z",
+            "type": "up",
+            "time_delay": 0.025925397872924805
+        },
+        {
+            "name": "z",
+            "type": "down",
+            "time_delay": 0.09280085563659668
+        },
+        {
+            "name": "z",
+            "type": "up",
+            "time_delay": 0.08527898788452148
+        },
+        {
+            "name": "z",
+            "type": "down",
+            "time_delay": 0.06217455863952637
+        },
+        {
+            "name": "z",
+            "type": "up",
+            "time_delay": 0.09476590156555176
+        },
+        {
+            "name": "z",
+            "type": "down",
+            "time_delay": 0.07166290283203125
+        },
+        {
+            "name": "z",
+            "type": "up",
+            "time_delay": 0.11087822914123535
+        },
+        {
+            "name": "z",
+            "type": "down",
+            "time_delay": 0.06322479248046875
+        },
+        {
+            "name": "z",
+            "type": "up",
+            "time_delay": 0.09927105903625488
+        },
+        {
+            "name": "z",
+            "type": "down",
+            "time_delay": 0.07993626594543457
+        },
+        {
+            "name": "z",
+            "type": "up",
+            "time_delay": 0.0777885913848877
+        },
+        {
+            "name": "z",
+            "type": "down",
+            "time_delay": 0.07980537414550781
+        },
+        {
+            "name": "z",
+            "type": "up",
+            "time_delay": 0.0879671573638916
+        },
+        {
+            "name": "z",
+            "type": "down",
+            "time_delay": 0.07828569412231445
+        },
+        {
+            "name": "z",
+            "type": "up",
+            "time_delay": 0.09282922744750977
+        },
+        {
+            "name": "z",
+            "type": "down",
+            "time_delay": 0.07108068466186523
+        },
+        {
+            "name": "z",
+            "type": "up",
+            "time_delay": 0.09182453155517578
+        },
+        {
+            "name": "z",
+            "type": "down",
+            "time_delay": 0.06403660774230957
+        },
+        {
+            "name": "z",
+            "type": "up",
+            "time_delay": 0.08031439781188965
+        },
+        {
+            "name": "z",
+            "type": "down",
+            "time_delay": 0.0752115249633789
+        },
+        {
+            "name": "z",
+            "type": "up",
+            "time_delay": 0.08969378471374512
+        },
+        {
+            "name": "z",
+            "type": "down",
+            "time_delay": 0.06116676330566406
+        },
+        {
+            "name": "z",
+            "type": "up",
+            "time_delay": 0.08655500411987305
+        },
+        {
+            "name": "z",
+            "type": "down",
+            "time_delay": 0.07005882263183594
+        },
+        {
+            "name": "z",
+            "type": "up",
+            "time_delay": 0.08775973320007324
+        },
+        {
+            "name": "z",
+            "type": "down",
+            "time_delay": 0.0793156623840332
+        },
+        {
+            "name": "z",
+            "type": "up",
+            "time_delay": 0.08597660064697266
+        },
+        {
+            "name": "z",
+            "type": "down",
+            "time_delay": 0.0776979923248291
+        },
+        {
+            "name": "z",
+            "type": "up",
+            "time_delay": 0.08650541305541992
+        },
+        {
+            "name": "z",
+            "type": "down",
+            "time_delay": 0.08715987205505371
+        },
+        {
+            "name": "z",
+            "type": "up",
+            "time_delay": 0.07699394226074219
+        },
+        {
+            "name": "z",
+            "type": "down",
+            "time_delay": 0.08821439743041992
+        },
+        {
+            "name": "z",
+            "type": "up",
+            "time_delay": 0.08362817764282227
+        },
+        {
+            "name": "z",
+            "type": "down",
+            "time_delay": 0.0799417495727539
+        },
+        {
+            "name": "z",
+            "type": "up",
+            "time_delay": 0.09412860870361328
+        },
+        {
+            "name": "z",
+            "type": "down",
+            "time_delay": 0.07701897621154785
+        },
+        {
+            "name": "z",
+            "type": "up",
+            "time_delay": 0.09492135047912598
+        },
+        {
+            "name": "z",
+            "type": "down",
+            "time_delay": 0.07889366149902344
+        },
+        {
+            "name": "z",
+            "type": "up",
+            "time_delay": 0.09456086158752441
+        },
+        {
+            "name": "z",
+            "type": "down",
+            "time_delay": 0.07851529121398926
+        },
+        {
+            "name": "z",
+            "type": "up",
+            "time_delay": 0.09387660026550293
+        },
+        {
+            "name": "z",
+            "type": "down",
+            "time_delay": 0.08023977279663086
+        },
+        {
+            "name": "z",
+            "type": "up",
+            "time_delay": 0.0930328369140625
+        },
+        {
+            "name": "z",
+            "type": "down",
+            "time_delay": 0.07978296279907227
+        },
+        {
+            "name": "z",
+            "type": "up",
+            "time_delay": 0.09218668937683105
+        },
+        {
+            "name": "z",
+            "type": "down",
+            "time_delay": 0.08860468864440918
+        },
+        {
+            "name": "z",
+            "type": "up",
+            "time_delay": 0.09027552604675293
+        },
+        {
+            "name": "z",
+            "type": "down",
+            "time_delay": 0.08907961845397949
+        },
+        {
+            "name": "z",
+            "type": "up",
+            "time_delay": 0.08650755882263184
+        },
+        {
+            "name": "z",
+            "type": "down",
+            "time_delay": 0.08632993698120117
+        },
+        {
+            "name": "z",
+            "type": "up",
+            "time_delay": 0.08394050598144531
+        },
+        {
+            "name": "z",
+            "type": "down",
+            "time_delay": 0.08699607849121094
+        },
+        {
+            "name": "z",
+            "type": "up",
+            "time_delay": 0.08803915977478027
+        },
+        {
+            "name": "z",
+            "type": "down",
+            "time_delay": 0.08577728271484375
+        },
+        {
+            "name": "z",
+            "type": "up",
+            "time_delay": 0.0792701244354248
+        },
+        {
+            "name": "z",
+            "type": "down",
+            "time_delay": 0.09175395965576172
+        },
+        {
+            "name": "z",
+            "type": "up",
+            "time_delay": 0.08043026924133301
+        },
+        {
+            "name": "z",
+            "type": "down",
+            "time_delay": 0.0857703685760498
+        },
+        {
+            "name": "z",
+            "type": "up",
+            "time_delay": 0.0783376693725586
+        },
+        {
+            "name": "z",
+            "type": "down",
+            "time_delay": 0.10239243507385254
+        },
+        {
+            "name": "z",
+            "type": "up",
+            "time_delay": 0.053392648696899414
+        },
+        {
+            "name": "z",
+            "type": "down",
+            "time_delay": 0.09494423866271973
+        },
+        {
+            "name": "z",
+            "type": "up",
+            "time_delay": 0.08269381523132324
+        },
+        {
+            "name": "z",
+            "type": "down",
+            "time_delay": 0.09289336204528809
+        },
+        {
+            "name": "z",
+            "type": "up",
+            "time_delay": 0.06781792640686035
+        },
+        {
+            "name": "z",
+            "type": "down",
+            "time_delay": 0.08539485931396484
+        },
+        {
+            "name": "z",
+            "type": "up",
+            "time_delay": 0.07380270957946777
+        },
+        {
+            "name": "z",
+            "type": "down",
+            "time_delay": 0.08443951606750488
+        },
+        {
+            "name": "z",
+            "type": "up",
+            "time_delay": 0.06183362007141113
+        },
+        {
+            "name": "z",
+            "type": "down",
+            "time_delay": 0.0797731876373291
+        },
+        {
+            "name": "z",
+            "type": "up",
+            "time_delay": 0.07738208770751953
+        },
+        {
+            "name": "z",
+            "type": "down",
+            "time_delay": 0.07194828987121582
+        },
+        {
+            "name": "z",
+            "type": "up",
+            "time_delay": 0.08777785301208496
+        },
+        {
+            "name": "z",
+            "type": "down",
+            "time_delay": 0.07087850570678711
+        },
+        {
+            "name": "left",
+            "type": "up",
+            "time_delay": 0.0589146614074707
+        },
+        {
+            "name": "up",
+            "type": "up",
+            "time_delay": 0.004984378814697266
+        },
+        {
+            "name": "z",
+            "type": "up",
+            "time_delay": 0.009099006652832031
+        },
+        {
+            "name": "l",
+            "type": "down",
+            "time_delay": 0.21422529220581055
+        },
+        {
+            "name": "l",
+            "type": "up",
+            "time_delay": 0.08449864387512207
+        },
+        {
+            "name": "l",
+            "type": "down",
+            "time_delay": 0.056986093521118164
+        },
+        {
+            "name": "l",
+            "type": "up",
+            "time_delay": 0.08424186706542969
+        },
+        {
+            "name": "l",
+            "type": "down",
+            "time_delay": 2.182112693786621
+        },
+        {
+            "name": "l",
+            "type": "up",
+            "time_delay": 0.06922531127929688
+        },
+        {
+            "name": "l",
+            "type": "down",
+            "time_delay": 0.03132891654968262
+        },
+        {
+            "name": "l",
+            "type": "up",
+            "time_delay": 0.09556365013122559
+        },
+        {
+            "name": "l",
+            "type": "down",
+            "time_delay": 0.06298470497131348
+        },
+        {
+            "name": "l",
+            "type": "up",
+            "time_delay": 0.08504033088684082
+        },
+        {
+            "name": "l",
+            "type": "down",
+            "time_delay": 0.06178855895996094
+        },
+        {
+            "name": "l",
+            "type": "up",
+            "time_delay": 0.07357311248779297
+        },
+        {
+            "name": "l",
+            "type": "down",
+            "time_delay": 0.0658729076385498
+        },
+        {
+            "name": "l",
+            "type": "up",
+            "time_delay": 0.07790088653564453
+        },
+        {
+            "name": "l",
+            "type": "down",
+            "time_delay": 0.11499953269958496
+        },
+        {
+            "name": "l",
+            "type": "up",
+            "time_delay": 0.038110971450805664
+        },
+        {
+            "name": "left",
+            "type": "down",
+            "time_delay": 1.723909854888916
+        },
+        {
+            "name": "z",
+            "type": "down",
+            "time_delay": 0.04058361053466797
+        },
+        {
+            "name": "z",
+            "type": "up",
+            "time_delay": 0.06352686882019043
+        },
+        {
+            "name": "z",
+            "type": "down",
+            "time_delay": 0.08559870719909668
+        },
+        {
+            "name": "z",
+            "type": "up",
+            "time_delay": 0.0701913833618164
+        },
+        {
+            "name": "z",
+            "type": "down",
+            "time_delay": 0.07775378227233887
+        },
+        {
+            "name": "z",
+            "type": "up",
+            "time_delay": 0.08317351341247559
+        },
+        {
+            "name": "z",
+            "type": "down",
+            "time_delay": 0.06782341003417969
+        },
+        {
+            "name": "z",
+            "type": "up",
+            "time_delay": 0.08465456962585449
+        },
+        {
+            "name": "z",
+            "type": "down",
+            "time_delay": 0.07180929183959961
+        },
+        {
+            "name": "z",
+            "type": "up",
+            "time_delay": 0.0854501724243164
+        },
+        {
+            "name": "z",
+            "type": "down",
+            "time_delay": 0.07835221290588379
+        },
+        {
+            "name": "z",
+            "type": "up",
+            "time_delay": 0.07176399230957031
+        },
+        {
+            "name": "z",
+            "type": "down",
+            "time_delay": 0.08047246932983398
+        },
+        {
+            "name": "z",
+            "type": "up",
+            "time_delay": 0.08439230918884277
+        },
+        {
+            "name": "z",
+            "type": "down",
+            "time_delay": 0.06982111930847168
+        },
+        {
+            "name": "z",
+            "type": "up",
+            "time_delay": 0.08644461631774902
+        },
+        {
+            "name": "z",
+            "type": "down",
+            "time_delay": 0.07825994491577148
+        },
+        {
+            "name": "z",
+            "type": "up",
+            "time_delay": 0.08713340759277344
+        },
+        {
+            "name": "l",
+            "type": "down",
+            "time_delay": 0.040766239166259766
+        },
+        {
+            "name": "z",
+            "type": "down",
+            "time_delay": 0.03582048416137695
+        },
+        {
+            "name": "l",
+            "type": "up",
+            "time_delay": 0.035002708435058594
+        },
+        {
+            "name": "l",
+            "type": "down",
+            "time_delay": 0.06158733367919922
+        },
+        {
+            "name": "z",
+            "type": "up",
+            "time_delay": 0.0009508132934570312
+        },
+        {
+            "name": "l",
+            "type": "up",
+            "time_delay": 0.08476638793945312
+        },
+        {
+            "name": "z",
+            "type": "down",
+            "time_delay": 0.0008285045623779297
+        },
+        {
+            "name": "z",
+            "type": "up",
+            "time_delay": 0.07561159133911133
+        },
+        {
+            "name": "z",
+            "type": "down",
+            "time_delay": 0.07502913475036621
+        },
+        {
+            "name": "z",
+            "type": "up",
+            "time_delay": 0.08182311058044434
+        },
+        {
+            "name": "l",
+            "type": "down",
+            "time_delay": 1.4320428371429443
+        },
+        {
+            "name": "l",
+            "type": "up",
+            "time_delay": 0.04481935501098633
+        },
+        {
+            "name": "l",
+            "type": "down",
+            "time_delay": 0.07871413230895996
+        },
+        {
+            "name": "l",
+            "type": "up",
+            "time_delay": 0.07709598541259766
+        },
+        {
+            "name": "l",
+            "type": "down",
+            "time_delay": 0.08712291717529297
+        },
+        {
+            "name": "l",
+            "type": "up",
+            "time_delay": 0.06216025352478027
+        },
+        {
+            "name": "l",
+            "type": "down",
+            "time_delay": 0.08643269538879395
+        },
+        {
+            "name": "l",
+            "type": "up",
+            "time_delay": 0.07900023460388184
+        },
+        {
+            "name": "l",
+            "type": "down",
+            "time_delay": 0.07764077186584473
+        },
+        {
+            "name": "l",
+            "type": "up",
+            "time_delay": 0.0731201171875
+        },
+        {
+            "name": "l",
+            "type": "down",
+            "time_delay": 0.0778510570526123
+        },
+        {
+            "name": "l",
+            "type": "up",
+            "time_delay": 0.07196187973022461
+        },
+        {
+            "name": "l",
+            "type": "down",
+            "time_delay": 0.10086774826049805
+        },
+        {
+            "name": "l",
+            "type": "up",
+            "time_delay": 0.04388618469238281
+        },
+        {
+            "name": "a",
+            "type": "down",
+            "time_delay": 2.4870638847351074
+        },
+        {
+            "name": "a",
+            "type": "up",
+            "time_delay": 0.03490495681762695
+        },
+        {
+            "name": "a",
+            "type": "down",
+            "time_delay": 0.08732914924621582
+        },
+        {
+            "name": "a",
+            "type": "up",
+            "time_delay": 0.07126402854919434
+        },
+        {
+            "name": "a",
+            "type": "down",
+            "time_delay": 0.0804293155670166
+        },
+        {
+            "name": "a",
+            "type": "up",
+            "time_delay": 0.06975245475769043
+        },
+        {
+            "name": "a",
+            "type": "down",
+            "time_delay": 0.07777118682861328
+        },
+        {
+            "name": "a",
+            "type": "up",
+            "time_delay": 0.06404328346252441
+        },
+        {
+            "name": "a",
+            "type": "down",
+            "time_delay": 0.07822847366333008
+        },
+        {
+            "name": "a",
+            "type": "up",
+            "time_delay": 0.09459185600280762
+        },
+        {
+            "name": "z",
+            "type": "down",
+            "time_delay": 0.10927510261535645
+        },
+        {
+            "name": "z",
+            "type": "up",
+            "time_delay": 0.07565021514892578
+        },
+        {
+            "name": "z",
+            "type": "down",
+            "time_delay": 0.07114887237548828
+        },
+        {
+            "name": "z",
+            "type": "up",
+            "time_delay": 0.10475850105285645
+        },
+        {
+            "name": "z",
+            "type": "down",
+            "time_delay": 0.05332350730895996
+        },
+        {
+            "name": "z",
+            "type": "up",
+            "time_delay": 0.09628033638000488
+        },
+        {
+            "name": "a",
+            "type": "down",
+            "time_delay": 0.17168188095092773
+        },
+        {
+            "name": "a",
+            "type": "up",
+            "time_delay": 0.07827091217041016
+        },
+        {
+            "name": "z",
+            "type": "down",
+            "time_delay": 0.09330320358276367
+        },
+        {
+            "name": "z",
+            "type": "up",
+            "time_delay": 0.0856926441192627
+        },
+        {
+            "name": "z",
+            "type": "down",
+            "time_delay": 0.06600213050842285
+        },
+        {
+            "name": "z",
+            "type": "up",
+            "time_delay": 0.08676004409790039
+        },
+        {
+            "name": "z",
+            "type": "down",
+            "time_delay": 0.060920000076293945
+        },
+        {
+            "name": "z",
+            "type": "up",
+            "time_delay": 0.0850532054901123
+        },
+        {
+            "name": "z",
+            "type": "down",
+            "time_delay": 0.08172130584716797
+        },
+        {
+            "name": "z",
+            "type": "up",
+            "time_delay": 0.08346104621887207
+        },
+        {
+            "name": "l",
+            "type": "down",
+            "time_delay": 0.028342485427856445
+        },
+        {
+            "name": "z",
+            "type": "down",
+            "time_delay": 0.04107999801635742
+        },
+        {
+            "name": "l",
+            "type": "up",
+            "time_delay": 0.02487945556640625
+        },
+        {
+            "name": "l",
+            "type": "down",
+            "time_delay": 0.07323670387268066
+        },
+        {
+            "name": "z",
+            "type": "up",
+            "time_delay": 0.004134178161621094
+        },
+        {
+            "name": "l",
+            "type": "up",
+            "time_delay": 0.0714104175567627
+        },
+        {
+            "name": "z",
+            "type": "down",
+            "time_delay": 0.00588226318359375
+        },
+        {
+            "name": "l",
+            "type": "down",
+            "time_delay": 0.03998208045959473
+        },
+        {
+            "name": "z",
+            "type": "up",
+            "time_delay": 0.03521537780761719
+        },
+        {
+            "name": "l",
+            "type": "up",
+            "time_delay": 0.05183768272399902
+        },
+        {
+            "name": "z",
+            "type": "down",
+            "time_delay": 0.02806997299194336
+        },
+        {
+            "name": "l",
+            "type": "down",
+            "time_delay": 0.03084731101989746
+        },
+        {
+            "name": "l",
+            "type": "up",
+            "time_delay": 0.06912779808044434
+        },
+        {
+            "name": "z",
+            "type": "up",
+            "time_delay": 0.0008132457733154297
+        },
+        {
+            "name": "a",
+            "type": "down",
+            "time_delay": 2.371901035308838
+        },
+        {
+            "name": "a",
+            "type": "up",
+            "time_delay": 0.07272577285766602
+        },
+        {
+            "name": "a",
+            "type": "down",
+            "time_delay": 0.08614945411682129
+        },
+        {
+            "name": "a",
+            "type": "up",
+            "time_delay": 0.06117606163024902
+        },
+        {
+            "name": "a",
+            "type": "down",
+            "time_delay": 0.07979083061218262
+        },
+        {
+            "name": "a",
+            "type": "up",
+            "time_delay": 0.06746602058410645
+        },
+        {
+            "name": "z",
+            "type": "down",
+            "time_delay": 0.14448118209838867
+        },
+        {
+            "name": "z",
+            "type": "up",
+            "time_delay": 0.10231757164001465
+        },
+        {
+            "name": "z",
+            "type": "down",
+            "time_delay": 0.05627703666687012
+        },
+        {
+            "name": "z",
+            "type": "up",
+            "time_delay": 0.09073925018310547
+        },
+        {
+            "name": "z",
+            "type": "down",
+            "time_delay": 0.06467723846435547
+        },
+        {
+            "name": "right",
+            "type": "down",
+            "time_delay": 0.05795168876647949
+        },
+        {
+            "name": "z",
+            "type": "up",
+            "time_delay": 0.027431011199951172
+        },
+        {
+            "name": "left",
+            "type": "up",
+            "time_delay": 0.027532577514648438
+        },
+        {
+            "name": "z",
+            "type": "down",
+            "time_delay": 0.042606353759765625
+        },
+        {
+            "name": "z",
+            "type": "up",
+            "time_delay": 0.07467007637023926
+        },
+        {
+            "name": "a",
+            "type": "down",
+            "time_delay": 0.11837053298950195
+        },
+        {
+            "name": "a",
+            "type": "up",
+            "time_delay": 0.06484580039978027
+        },
+        {
+            "name": "a",
+            "type": "down",
+            "time_delay": 0.08424758911132812
+        },
+        {
+            "name": "a",
+            "type": "up",
+            "time_delay": 0.07999300956726074
+        },
+        {
+            "name": "l",
+            "type": "down",
+            "time_delay": 0.04401707649230957
+        },
+        {
+            "name": "l",
+            "type": "up",
+            "time_delay": 0.06783103942871094
+        },
+        {
+            "name": "l",
+            "type": "down",
+            "time_delay": 0.0384984016418457
+        },
+        {
+            "name": "z",
+            "type": "down",
+            "time_delay": 0.02713179588317871
+        },
+        {
+            "name": "l",
+            "type": "up",
+            "time_delay": 0.058888912200927734
+        },
+        {
+            "name": "z",
+            "type": "up",
+            "time_delay": 0.021403074264526367
+        },
+        {
+            "name": "z",
+            "type": "down",
+            "time_delay": 0.06823873519897461
+        },
+        {
+            "name": "z",
+            "type": "up",
+            "time_delay": 0.09673118591308594
+        },
+        {
+            "name": "z",
+            "type": "down",
+            "time_delay": 0.07577943801879883
+        },
+        {
+            "name": "z",
+            "type": "up",
+            "time_delay": 0.09449243545532227
+        },
+        {
+            "name": "z",
+            "type": "down",
+            "time_delay": 0.07785463333129883
+        },
+        {
+            "name": "z",
+            "type": "up",
+            "time_delay": 0.09582185745239258
+        },
+        {
+            "name": "z",
+            "type": "down",
+            "time_delay": 0.08871793746948242
+        },
+        {
+            "name": "z",
+            "type": "up",
+            "time_delay": 0.08295202255249023
+        },
+        {
+            "name": "z",
+            "type": "down",
+            "time_delay": 0.08504915237426758
+        },
+        {
+            "name": "z",
+            "type": "up",
+            "time_delay": 0.08106088638305664
+        },
+        {
+            "name": "z",
+            "type": "down",
+            "time_delay": 0.09500622749328613
+        },
+        {
+            "name": "z",
+            "type": "up",
+            "time_delay": 0.07812094688415527
+        },
+        {
+            "name": "a",
+            "type": "down",
+            "time_delay": 1.4434430599212646
+        },
+        {
+            "name": "a",
+            "type": "up",
+            "time_delay": 0.08506917953491211
+        },
+        {
+            "name": "a",
+            "type": "down",
+            "time_delay": 0.09018659591674805
+        },
+        {
+            "name": "a",
+            "type": "up",
+            "time_delay": 0.07013893127441406
+        },
+        {
+            "name": "a",
+            "type": "down",
+            "time_delay": 0.0907144546508789
+        },
+        {
+            "name": "a",
+            "type": "up",
+            "time_delay": 0.08983826637268066
+        },
+        {
+            "name": "a",
+            "type": "down",
+            "time_delay": 0.08338022232055664
+        },
+        {
+            "name": "a",
+            "type": "up",
+            "time_delay": 0.07326078414916992
+        },
+        {
+            "name": "a",
+            "type": "down",
+            "time_delay": 0.09116959571838379
+        },
+        {
+            "name": "a",
+            "type": "up",
+            "time_delay": 0.0799570083618164
+        },
+        {
+            "name": "a",
+            "type": "down",
+            "time_delay": 0.09525156021118164
+        },
+        {
+            "name": "a",
+            "type": "up",
+            "time_delay": 0.06909418106079102
+        },
+        {
+            "name": "a",
+            "type": "down",
+            "time_delay": 0.31033825874328613
+        },
+        {
+            "name": "a",
+            "type": "up",
+            "time_delay": 0.04597806930541992
+        },
+        {
+            "name": "a",
+            "type": "down",
+            "time_delay": 0.08432650566101074
+        },
+        {
+            "name": "a",
+            "type": "up",
+            "time_delay": 0.08695030212402344
+        },
+        {
+            "name": "l",
+            "type": "down",
+            "time_delay": 0.1297132968902588
+        },
+        {
+            "name": "l",
+            "type": "up",
+            "time_delay": 0.0780632495880127
+        },
+        {
+            "name": "z",
+            "type": "down",
+            "time_delay": 1.062241792678833
+        },
+        {
+            "name": "z",
+            "type": "up",
+            "time_delay": 0.07042264938354492
+        },
+        {
+            "name": "z",
+            "type": "down",
+            "time_delay": 0.0865790843963623
+        },
+        {
+            "name": "z",
+            "type": "up",
+            "time_delay": 0.08541393280029297
+        },
+        {
+            "name": "z",
+            "type": "down",
+            "time_delay": 0.08645939826965332
+        },
+        {
+            "name": "z",
+            "type": "up",
+            "time_delay": 0.10386490821838379
+        },
+        {
+            "name": "a",
+            "type": "down",
+            "time_delay": 0.6583282947540283
+        },
+        {
+            "name": "a",
+            "type": "up",
+            "time_delay": 0.06897807121276855
+        },
+        {
+            "name": "a",
+            "type": "down",
+            "time_delay": 0.0861349105834961
+        },
+        {
+            "name": "a",
+            "type": "up",
+            "time_delay": 0.07810044288635254
+        },
+        {
+            "name": "a",
+            "type": "down",
+            "time_delay": 0.09424591064453125
+        },
+        {
+            "name": "a",
+            "type": "up",
+            "time_delay": 0.07758283615112305
+        },
+        {
+            "name": "a",
+            "type": "down",
+            "time_delay": 0.08871698379516602
+        },
+        {
+            "name": "a",
+            "type": "up",
+            "time_delay": 0.07681560516357422
+        },
+        {
+            "name": "a",
+            "type": "down",
+            "time_delay": 0.08681321144104004
+        },
+        {
+            "name": "a",
+            "type": "up",
+            "time_delay": 0.07791924476623535
+        },
+        {
+            "name": "a",
+            "type": "down",
+            "time_delay": 0.08572006225585938
+        },
+        {
+            "name": "a",
+            "type": "up",
+            "time_delay": 0.07027196884155273
+        },
+        {
+            "name": "a",
+            "type": "down",
+            "time_delay": 0.08011412620544434
+        },
+        {
+            "name": "a",
+            "type": "up",
+            "time_delay": 0.07843184471130371
+        },
+        {
+            "name": "l",
+            "type": "down",
+            "time_delay": 0.05586695671081543
+        },
+        {
+            "name": "l",
+            "type": "up",
+            "time_delay": 0.09440922737121582
+        },
+        {
+            "name": "l",
+            "type": "down",
+            "time_delay": 0.0411379337310791
+        },
+        {
+            "name": "l",
+            "type": "up",
+            "time_delay": 0.08628249168395996
+        },
+        {
+            "name": "right",
+            "type": "up",
+            "time_delay": 0.8284380435943604
+        },
+        {
+            "name": "right",
+            "type": "down",
+            "time_delay": 1.467482089996338
+        },
+        {
+            "name": "right",
+            "type": "down",
+            "time_delay": 0.49543070793151855
+        },
+        {
+            "name": "a",
+            "type": "down",
+            "time_delay": 0.022857666015625
+        },
+        {
+            "name": "a",
+            "type": "up",
+            "time_delay": 0.05232667922973633
+        },
+        {
+            "name": "a",
+            "type": "down",
+            "time_delay": 0.08828353881835938
+        },
+        {
+            "name": "a",
+            "type": "up",
+            "time_delay": 0.08783388137817383
+        },
+        {
+            "name": "l",
+            "type": "down",
+            "time_delay": 0.39088988304138184
+        },
+        {
+            "name": "l",
+            "type": "up",
+            "time_delay": 0.06139016151428223
+        },
+        {
+            "name": "l",
+            "type": "down",
+            "time_delay": 2.618497610092163
+        },
+        {
+            "name": "l",
+            "type": "up",
+            "time_delay": 0.07383966445922852
+        },
+        {
+            "name": "l",
+            "type": "down",
+            "time_delay": 0.06121540069580078
+        },
+        {
+            "name": "l",
+            "type": "up",
+            "time_delay": 0.09057497978210449
+        },
+        {
+            "name": "a",
+            "type": "down",
+            "time_delay": 2.7786521911621094
+        },
+        {
+            "name": "a",
+            "type": "up",
+            "time_delay": 0.05414390563964844
+        },
+        {
+            "name": "a",
+            "type": "down",
+            "time_delay": 0.0941305160522461
+        },
+        {
+            "name": "a",
+            "type": "up",
+            "time_delay": 0.08131980895996094
+        },
+        {
+            "name": "a",
+            "type": "down",
+            "time_delay": 0.08676624298095703
+        },
+        {
+            "name": "a",
+            "type": "up",
+            "time_delay": 0.08645939826965332
+        },
+        {
+            "name": "a",
+            "type": "down",
+            "time_delay": 0.35694265365600586
+        },
+        {
+            "name": "a",
+            "type": "up",
+            "time_delay": 0.07649469375610352
+        },
+        {
+            "name": "a",
+            "type": "down",
+            "time_delay": 0.08507680892944336
+        },
+        {
+            "name": "a",
+            "type": "up",
+            "time_delay": 0.07281827926635742
+        },
+        {
+            "name": "l",
+            "type": "down",
+            "time_delay": 0.07386088371276855
+        },
+        {
+            "name": "l",
+            "type": "up",
+            "time_delay": 0.07033348083496094
+        },
+        {
+            "name": "l",
+            "type": "down",
+            "time_delay": 0.0688621997833252
+        },
+        {
+            "name": "l",
+            "type": "up",
+            "time_delay": 0.07837843894958496
+        },
+        {
+            "name": "z",
+            "type": "down",
+            "time_delay": 2.4131929874420166
+        },
+        {
+            "name": "z",
+            "type": "up",
+            "time_delay": 0.09993600845336914
+        },
+        {
+            "name": "z",
+            "type": "down",
+            "time_delay": 0.07996106147766113
+        },
+        {
+            "name": "z",
+            "type": "up",
+            "time_delay": 0.06906747817993164
+        },
+        {
+            "name": "z",
+            "type": "down",
+            "time_delay": 0.09228348731994629
+        },
+        {
+            "name": "z",
+            "type": "up",
+            "time_delay": 0.08790421485900879
+        },
+        {
+            "name": "z",
+            "type": "down",
+            "time_delay": 0.07876753807067871
+        },
+        {
+            "name": "z",
+            "type": "up",
+            "time_delay": 0.09322476387023926
+        },
+        {
+            "name": "z",
+            "type": "down",
+            "time_delay": 0.0815129280090332
+        },
+        {
+            "name": "z",
+            "type": "up",
+            "time_delay": 0.08647656440734863
+        },
+        {
+            "name": "z",
+            "type": "down",
+            "time_delay": 0.0854949951171875
+        },
+        {
+            "name": "left",
+            "type": "down",
+            "time_delay": 0.02930164337158203
+        },
+        {
+            "name": "right",
+            "type": "up",
+            "time_delay": 0.02999114990234375
+        },
+        {
+            "name": "z",
+            "type": "up",
+            "time_delay": 0.01822662353515625
+        },
+        {
+            "name": "z",
+            "type": "down",
+            "time_delay": 0.08299112319946289
+        },
+        {
+            "name": "z",
+            "type": "up",
+            "time_delay": 0.07105112075805664
+        },
+        {
+            "name": "a",
+            "type": "down",
+            "time_delay": 0.17542672157287598
+        },
+        {
+            "name": "a",
+            "type": "up",
+            "time_delay": 0.09173011779785156
+        },
+        {
+            "name": "z",
+            "type": "down",
+            "time_delay": 0.5254561901092529
+        },
+        {
+            "name": "z",
+            "type": "up",
+            "time_delay": 0.060993194580078125
+        },
+        {
+            "name": "z",
+            "type": "down",
+            "time_delay": 0.08739972114562988
+        },
+        {
+            "name": "z",
+            "type": "up",
+            "time_delay": 0.07153987884521484
+        },
+        {
+            "name": "z",
+            "type": "down",
+            "time_delay": 0.0768284797668457
+        },
+        {
+            "name": "z",
+            "type": "up",
+            "time_delay": 0.08612728118896484
+        },
+        {
+            "name": "z",
+            "type": "down",
+            "time_delay": 0.0695650577545166
+        },
+        {
+            "name": "z",
+            "type": "up",
+            "time_delay": 0.07026982307434082
+        },
+        {
+            "name": "a",
+            "type": "down",
+            "time_delay": 0.09734678268432617
+        },
+        {
+            "name": "a",
+            "type": "up",
+            "time_delay": 0.08659934997558594
+        },
+        {
+            "name": "l",
+            "type": "down",
+            "time_delay": 0.19291210174560547
+        },
+        {
+            "name": "l",
+            "type": "up",
+            "time_delay": 0.09104228019714355
+        },
+        {
+            "name": "l",
+            "type": "down",
+            "time_delay": 0.0668785572052002
+        },
+        {
+            "name": "z",
+            "type": "down",
+            "time_delay": 0.0422821044921875
+        },
+        {
+            "name": "l",
+            "type": "up",
+            "time_delay": 0.0179750919342041
+        },
+        {
+            "name": "z",
+            "type": "up",
+            "time_delay": 0.04874086380004883
+        },
+        {
+            "name": "z",
+            "type": "down",
+            "time_delay": 0.10293221473693848
+        },
+        {
+            "name": "z",
+            "type": "up",
+            "time_delay": 0.10426115989685059
+        },
+        {
+            "name": "z",
+            "type": "down",
+            "time_delay": 0.08670258522033691
+        },
+        {
+            "name": "z",
+            "type": "up",
+            "time_delay": 0.09444713592529297
+        },
+        {
+            "name": "z",
+            "type": "down",
+            "time_delay": 0.10131573677062988
+        },
+        {
+            "name": "z",
+            "type": "up",
+            "time_delay": 0.08594179153442383
+        },
+        {
+            "name": "left",
+            "type": "up",
+            "time_delay": 0.8708758354187012
+        },
+        {
+            "name": "l",
+            "type": "down",
+            "time_delay": 1.0193321704864502
+        },
+        {
+            "name": "l",
+            "type": "up",
+            "time_delay": 0.08882403373718262
+        },
+        {
+            "name": "l",
+            "type": "down",
+            "time_delay": 0.050863027572631836
+        },
+        {
+            "name": "l",
+            "type": "up",
+            "time_delay": 0.08560013771057129
+        },
+        {
+            "name": "right",
+            "type": "down",
+            "time_delay": 2.192394971847534
+        },
+        {
+            "name": "a",
+            "type": "down",
+            "time_delay": 0.4960360527038574
+        },
+        {
+            "name": "a",
+            "type": "up",
+            "time_delay": 0.046875953674316406
+        },
+        {
+            "name": "a",
+            "type": "down",
+            "time_delay": 0.09485006332397461
+        },
+        {
+            "name": "a",
+            "type": "up",
+            "time_delay": 0.054860830307006836
+        },
+        {
+            "name": "a",
+            "type": "down",
+            "time_delay": 0.10127830505371094
+        },
+        {
+            "name": "a",
+            "type": "up",
+            "time_delay": 0.0708165168762207
+        },
+        {
+            "name": "z",
+            "type": "down",
+            "time_delay": 0.3482365608215332
+        },
+        {
+            "name": "z",
+            "type": "up",
+            "time_delay": 0.06285572052001953
+        },
+        {
+            "name": "z",
+            "type": "down",
+            "time_delay": 0.08776164054870605
+        },
+        {
+            "name": "z",
+            "type": "up",
+            "time_delay": 0.06433773040771484
+        },
+        {
+            "name": "left",
+            "type": "down",
+            "time_delay": 0.05685162544250488
+        },
+        {
+            "name": "z",
+            "type": "down",
+            "time_delay": 0.03490304946899414
+        },
+        {
+            "name": "right",
+            "type": "up",
+            "time_delay": 0.08528661727905273
+        },
+        {
+            "name": "z",
+            "type": "up",
+            "time_delay": 0.0009984970092773438
+        },
+        {
+            "name": "z",
+            "type": "down",
+            "time_delay": 0.06095266342163086
+        },
+        {
+            "name": "z",
+            "type": "up",
+            "time_delay": 0.08676505088806152
+        },
+        {
+            "name": "a",
+            "type": "down",
+            "time_delay": 0.12418317794799805
+        },
+        {
+            "name": "a",
+            "type": "up",
+            "time_delay": 0.07836365699768066
+        },
+        {
+            "name": "a",
+            "type": "down",
+            "time_delay": 0.10074543952941895
+        },
+        {
+            "name": "a",
+            "type": "up",
+            "time_delay": 0.06430864334106445
+        },
+        {
+            "name": "a",
+            "type": "down",
+            "time_delay": 0.34662485122680664
+        },
+        {
+            "name": "a",
+            "type": "up",
+            "time_delay": 0.04640460014343262
+        },
+        {
+            "name": "a",
+            "type": "down",
+            "time_delay": 0.09582281112670898
+        },
+        {
+            "name": "a",
+            "type": "up",
+            "time_delay": 0.07233858108520508
+        },
+        {
+            "name": "l",
+            "type": "down",
+            "time_delay": 0.1291663646697998
+        },
+        {
+            "name": "l",
+            "type": "up",
+            "time_delay": 0.20243549346923828
+        },
+        {
+            "name": "l",
+            "type": "down",
+            "time_delay": 0.050588369369506836
+        },
+        {
+            "name": "l",
+            "type": "up",
+            "time_delay": 0.08328509330749512
+        },
+        {
+            "name": "l",
+            "type": "down",
+            "time_delay": 0.07280254364013672
+        },
+        {
+            "name": "l",
+            "type": "up",
+            "time_delay": 0.06736564636230469
+        },
+        {
+            "name": "left",
+            "type": "up",
+            "time_delay": 1.1310057640075684
+        },
+        {
+            "name": "l",
+            "type": "down",
+            "time_delay": 0.8008124828338623
+        },
+        {
+            "name": "l",
+            "type": "up",
+            "time_delay": 0.07080626487731934
+        },
+        {
+            "name": "l",
+            "type": "down",
+            "time_delay": 0.04640674591064453
+        },
+        {
+            "name": "l",
+            "type": "up",
+            "time_delay": 0.08616900444030762
+        },
+        {
+            "name": "l",
+            "type": "down",
+            "time_delay": 0.06782150268554688
+        },
+        {
+            "name": "l",
+            "type": "up",
+            "time_delay": 0.07293391227722168
+        },
+        {
+            "name": "l",
+            "type": "down",
+            "time_delay": 0.07156181335449219
+        },
+        {
+            "name": "l",
+            "type": "up",
+            "time_delay": 0.08124566078186035
+        },
+        {
+            "name": "l",
+            "type": "down",
+            "time_delay": 0.0658268928527832
+        },
+        {
+            "name": "l",
+            "type": "up",
+            "time_delay": 0.07568168640136719
+        },
+        {
+            "name": "l",
+            "type": "down",
+            "time_delay": 0.058132171630859375
+        },
+        {
+            "name": "l",
+            "type": "up",
+            "time_delay": 0.07915878295898438
+        },
+        {
+            "name": "l",
+            "type": "down",
+            "time_delay": 0.07480359077453613
+        },
+        {
+            "name": "l",
+            "type": "up",
+            "time_delay": 0.06077122688293457
+        },
+        {
+            "name": "right",
+            "type": "down",
+            "time_delay": 2.3783936500549316
+        },
+        {
+            "name": "a",
+            "type": "down",
+            "time_delay": 0.3213224411010742
+        },
+        {
+            "name": "a",
+            "type": "up",
+            "time_delay": 0.023178577423095703
+        },
+        {
+            "name": "a",
+            "type": "down",
+            "time_delay": 0.09319400787353516
+        },
+        {
+            "name": "a",
+            "type": "up",
+            "time_delay": 0.06072092056274414
+        },
+        {
+            "name": "a",
+            "type": "down",
+            "time_delay": 0.09498715400695801
+        },
+        {
+            "name": "a",
+            "type": "up",
+            "time_delay": 0.0789024829864502
+        },
+        {
+            "name": "left",
+            "type": "down",
+            "time_delay": 0.07422018051147461
+        },
+        {
+            "name": "right",
+            "type": "up",
+            "time_delay": 0.0008535385131835938
+        },
+        {
+            "name": "z",
+            "type": "down",
+            "time_delay": 0.03407883644104004
+        },
+        {
+            "name": "z",
+            "type": "up",
+            "time_delay": 0.07620453834533691
+        },
+        {
+            "name": "z",
+            "type": "down",
+            "time_delay": 0.08536100387573242
+        },
+        {
+            "name": "z",
+            "type": "up",
+            "time_delay": 0.055600643157958984
+        },
+        {
+            "name": "a",
+            "type": "down",
+            "time_delay": 0.10994720458984375
+        },
+        {
+            "name": "a",
+            "type": "up",
+            "time_delay": 0.0798945426940918
+        },
+        {
+            "name": "a",
+            "type": "down",
+            "time_delay": 0.09299492835998535
+        },
+        {
+            "name": "a",
+            "type": "up",
+            "time_delay": 0.07182049751281738
+        },
+        {
+            "name": "a",
+            "type": "down",
+            "time_delay": 0.3806583881378174
+        },
+        {
+            "name": "a",
+            "type": "up",
+            "time_delay": 0.029912710189819336
+        },
+        {
+            "name": "a",
+            "type": "down",
+            "time_delay": 0.0868539810180664
+        },
+        {
+            "name": "a",
+            "type": "up",
+            "time_delay": 0.06161379814147949
+        },
+        {
+            "name": "z",
+            "type": "down",
+            "time_delay": 0.10117411613464355
+        },
+        {
+            "name": "z",
+            "type": "up",
+            "time_delay": 0.09499168395996094
+        },
+        {
+            "name": "z",
+            "type": "down",
+            "time_delay": 0.06303668022155762
+        },
+        {
+            "name": "z",
+            "type": "up",
+            "time_delay": 0.08654069900512695
+        },
+        {
+            "name": "z",
+            "type": "down",
+            "time_delay": 0.07922124862670898
+        },
+        {
+            "name": "z",
+            "type": "up",
+            "time_delay": 0.08649468421936035
+        },
+        {
+            "name": "a",
+            "type": "down",
+            "time_delay": 0.09664678573608398
+        },
+        {
+            "name": "a",
+            "type": "up",
+            "time_delay": 0.0819997787475586
+        },
+        {
+            "name": "z",
+            "type": "down",
+            "time_delay": 0.09670591354370117
+        },
+        {
+            "name": "z",
+            "type": "up",
+            "time_delay": 0.08770608901977539
+        },
+        {
+            "name": "z",
+            "type": "down",
+            "time_delay": 0.06981921195983887
+        },
+        {
+            "name": "z",
+            "type": "up",
+            "time_delay": 0.09330105781555176
+        },
+        {
+            "name": "z",
+            "type": "down",
+            "time_delay": 0.07712411880493164
+        },
+        {
+            "name": "z",
+            "type": "up",
+            "time_delay": 0.09481072425842285
+        },
+        {
+            "name": "z",
+            "type": "down",
+            "time_delay": 0.06901192665100098
+        },
+        {
+            "name": "z",
+            "type": "up",
+            "time_delay": 0.09008479118347168
+        },
+        {
+            "name": "z",
+            "type": "down",
+            "time_delay": 0.0938718318939209
+        },
+        {
+            "name": "z",
+            "type": "up",
+            "time_delay": 0.07007837295532227
+        },
+        {
+            "name": "z",
+            "type": "down",
+            "time_delay": 0.08603787422180176
+        },
+        {
+            "name": "z",
+            "type": "up",
+            "time_delay": 0.07664918899536133
+        },
+        {
+            "name": "z",
+            "type": "down",
+            "time_delay": 0.0946652889251709
+        },
+        {
+            "name": "z",
+            "type": "up",
+            "time_delay": 0.06410002708435059
+        },
+        {
+            "name": "z",
+            "type": "down",
+            "time_delay": 0.10367131233215332
+        },
+        {
+            "name": "z",
+            "type": "up",
+            "time_delay": 0.06150674819946289
+        },
+        {
+            "name": "a",
+            "type": "down",
+            "time_delay": 0.19092249870300293
+        },
+        {
+            "name": "a",
+            "type": "up",
+            "time_delay": 0.08677268028259277
+        },
+        {
+            "name": "z",
+            "type": "down",
+            "time_delay": 0.09407925605773926
+        },
+        {
+            "name": "l",
+            "type": "down",
+            "time_delay": 0.04432559013366699
+        },
+        {
+            "name": "z",
+            "type": "up",
+            "time_delay": 0.05216240882873535
+        },
+        {
+            "name": "l",
+            "type": "up",
+            "time_delay": 0.03491616249084473
+        },
+        {
+            "name": "l",
+            "type": "down",
+            "time_delay": 0.02232646942138672
+        },
+        {
+            "name": "z",
+            "type": "down",
+            "time_delay": 0.04008150100708008
+        },
+        {
+            "name": "l",
+            "type": "up",
+            "time_delay": 0.04963564872741699
+        },
+        {
+            "name": "l",
+            "type": "down",
+            "time_delay": 0.04677987098693848
+        },
+        {
+            "name": "z",
+            "type": "up",
+            "time_delay": 0.0009458065032958984
+        },
+        {
+            "name": "l",
+            "type": "up",
+            "time_delay": 0.08612322807312012
+        },
+        {
+            "name": "z",
+            "type": "down",
+            "time_delay": 0.0010066032409667969
+        },
+        {
+            "name": "l",
+            "type": "down",
+            "time_delay": 0.06685233116149902
+        },
+        {
+            "name": "z",
+            "type": "up",
+            "time_delay": 0.031182050704956055
+        },
+        {
+            "name": "l",
+            "type": "up",
+            "time_delay": 0.022952795028686523
+        },
+        {
+            "name": "z",
+            "type": "down",
+            "time_delay": 0.045023441314697266
+        },
+        {
+            "name": "z",
+            "type": "up",
+            "time_delay": 0.11217832565307617
+        },
+        {
+            "name": "z",
+            "type": "down",
+            "time_delay": 0.07533955574035645
+        },
+        {
+            "name": "z",
+            "type": "up",
+            "time_delay": 0.10273909568786621
+        },
+        {
+            "name": "z",
+            "type": "down",
+            "time_delay": 0.07867789268493652
+        },
+        {
+            "name": "z",
+            "type": "up",
+            "time_delay": 0.08452129364013672
+        },
+        {
+            "name": "z",
+            "type": "down",
+            "time_delay": 0.1226201057434082
+        },
+        {
+            "name": "z",
+            "type": "up",
+            "time_delay": 0.054526567459106445
+        },
+        {
+            "name": "l",
+            "type": "down",
+            "time_delay": 1.5253355503082275
+        },
+        {
+            "name": "l",
+            "type": "up",
+            "time_delay": 0.07145953178405762
+        },
+        {
+            "name": "l",
+            "type": "down",
+            "time_delay": 0.05293869972229004
+        },
+        {
+            "name": "l",
+            "type": "up",
+            "time_delay": 0.07044339179992676
+        },
+        {
+            "name": "l",
+            "type": "down",
+            "time_delay": 0.061345577239990234
+        },
+        {
+            "name": "l",
+            "type": "up",
+            "time_delay": 0.06962394714355469
+        },
+        {
+            "name": "l",
+            "type": "down",
+            "time_delay": 0.07139086723327637
+        },
+        {
+            "name": "l",
+            "type": "up",
+            "time_delay": 0.056546688079833984
+        },
+        {
+            "name": "left",
+            "type": "up",
+            "time_delay": 1.5428345203399658
+        },
+        {
+            "name": "right",
+            "type": "down",
+            "time_delay": 0.6572051048278809
+        },
+        {
+            "name": "right",
+            "type": "down",
+            "time_delay": 0.49611377716064453
+        },
+        {
+            "name": "right",
+            "type": "down",
+            "time_delay": 0.029956340789794922
+        },
+        {
+            "name": "right",
+            "type": "down",
+            "time_delay": 0.0350041389465332
+        },
+        {
+            "name": "right",
+            "type": "down",
+            "time_delay": 0.030011653900146484
+        },
+        {
+            "name": "right",
+            "type": "down",
+            "time_delay": 0.0363461971282959
+        },
+        {
+            "name": "right",
+            "type": "down",
+            "time_delay": 0.03177642822265625
+        },
+        {
+            "name": "right",
+            "type": "down",
+            "time_delay": 0.030078411102294922
+        },
+        {
+            "name": "right",
+            "type": "down",
+            "time_delay": 0.03573918342590332
+        },
+        {
+            "name": "right",
+            "type": "down",
+            "time_delay": 0.029694080352783203
+        },
+        {
+            "name": "right",
+            "type": "down",
+            "time_delay": 0.03592991828918457
+        },
+        {
+            "name": "right",
+            "type": "down",
+            "time_delay": 0.029980182647705078
+        },
+        {
+            "name": "right",
+            "type": "down",
+            "time_delay": 0.035269737243652344
+        },
+        {
+            "name": "right",
+            "type": "down",
+            "time_delay": 0.030861854553222656
+        },
+        {
+            "name": "right",
+            "type": "down",
+            "time_delay": 0.03436756134033203
+        },
+        {
+            "name": "right",
+            "type": "down",
+            "time_delay": 0.03028106689453125
+        },
+        {
+            "name": "c",
+            "type": "down",
+            "time_delay": 0.01872086524963379
+        },
+        {
+            "name": "c",
+            "type": "up",
+            "time_delay": 0.10216760635375977
+        },
+        {
+            "name": "a",
+            "type": "down",
+            "time_delay": 0.06055402755737305
+        },
+        {
+            "name": "a",
+            "type": "up",
+            "time_delay": 0.08103823661804199
+        },
+        {
+            "name": "z",
+            "type": "down",
+            "time_delay": 0.11584949493408203
+        },
+        {
+            "name": "z",
+            "type": "up",
+            "time_delay": 0.11256194114685059
+        },
+        {
+            "name": "z",
+            "type": "down",
+            "time_delay": 0.0613245964050293
+        },
+        {
+            "name": "z",
+            "type": "up",
+            "time_delay": 0.08575129508972168
+        },
+        {
+            "name": "z",
+            "type": "down",
+            "time_delay": 0.11218023300170898
+        },
+        {
+            "name": "z",
+            "type": "up",
+            "time_delay": 0.05186915397644043
+        },
+        {
+            "name": "a",
+            "type": "down",
+            "time_delay": 0.34878087043762207
+        },
+        {
+            "name": "a",
+            "type": "up",
+            "time_delay": 0.08115434646606445
+        },
+        {
+            "name": "a",
+            "type": "down",
+            "time_delay": 0.1074066162109375
+        },
+        {
+            "name": "a",
+            "type": "up",
+            "time_delay": 0.0473020076751709
+        },
+        {
+            "name": "right",
+            "type": "up",
+            "time_delay": 0.051692962646484375
+        },
+        {
+            "name": "l",
+            "type": "down",
+            "time_delay": 0.18789076805114746
+        },
+        {
+            "name": "l",
+            "type": "up",
+            "time_delay": 0.09206056594848633
+        },
+        {
+            "name": "l",
+            "type": "down",
+            "time_delay": 0.05247998237609863
+        },
+        {
+            "name": "l",
+            "type": "up",
+            "time_delay": 0.054099321365356445
+        },
+        {
+            "name": "left",
+            "type": "down",
+            "time_delay": 1.8445613384246826
+        },
+        {
+            "name": "left",
+            "type": "down",
+            "time_delay": 0.49650073051452637
+        },
+        {
+            "name": "left",
+            "type": "down",
+            "time_delay": 0.03125905990600586
+        },
+        {
+            "name": "left",
+            "type": "down",
+            "time_delay": 0.0319209098815918
+        },
+        {
+            "name": "left",
+            "type": "down",
+            "time_delay": 0.03405165672302246
+        },
+        {
+            "name": "left",
+            "type": "down",
+            "time_delay": 0.03210926055908203
+        },
+        {
+            "name": "left",
+            "type": "down",
+            "time_delay": 0.03462576866149902
+        },
+        {
+            "name": "left",
+            "type": "down",
+            "time_delay": 0.030125141143798828
+        },
+        {
+            "name": "left",
+            "type": "down",
+            "time_delay": 0.03455471992492676
+        },
+        {
+            "name": "left",
+            "type": "down",
+            "time_delay": 0.03140425682067871
+        },
+        {
+            "name": "left",
+            "type": "down",
+            "time_delay": 0.03142690658569336
+        },
+        {
+            "name": "left",
+            "type": "down",
+            "time_delay": 0.03505754470825195
+        },
+        {
+            "name": "a",
+            "type": "down",
+            "time_delay": 0.0008549690246582031
+        },
+        {
+            "name": "a",
+            "type": "up",
+            "time_delay": 0.09007501602172852
+        },
+        {
+            "name": "a",
+            "type": "down",
+            "time_delay": 0.07794523239135742
+        },
+        {
+            "name": "a",
+            "type": "up",
+            "time_delay": 0.06764769554138184
+        },
+        {
+            "name": "a",
+            "type": "down",
+            "time_delay": 0.10288834571838379
+        },
+        {
+            "name": "a",
+            "type": "up",
+            "time_delay": 0.0704338550567627
+        },
+        {
+            "name": "a",
+            "type": "down",
+            "time_delay": 0.11208605766296387
+        },
+        {
+            "name": "a",
+            "type": "up",
+            "time_delay": 0.056624650955200195
+        },
+        {
+            "name": "a",
+            "type": "down",
+            "time_delay": 0.10219454765319824
+        },
+        {
+            "name": "a",
+            "type": "up",
+            "time_delay": 0.07769489288330078
+        },
+        {
+            "name": "a",
+            "type": "down",
+            "time_delay": 0.07521271705627441
+        },
+        {
+            "name": "a",
+            "type": "up",
+            "time_delay": 0.06667423248291016
+        },
+        {
+            "name": "a",
+            "type": "down",
+            "time_delay": 0.09083056449890137
+        },
+        {
+            "name": "a",
+            "type": "up",
+            "time_delay": 0.07149934768676758
+        },
+        {
+            "name": "z",
+            "type": "down",
+            "time_delay": 0.1647026538848877
+        },
+        {
+            "name": "z",
+            "type": "up",
+            "time_delay": 0.08568644523620605
+        },
+        {
+            "name": "z",
+            "type": "down",
+            "time_delay": 0.08816933631896973
+        },
+        {
+            "name": "z",
+            "type": "up",
+            "time_delay": 0.06986689567565918
+        },
+        {
+            "name": "z",
+            "type": "down",
+            "time_delay": 0.09560036659240723
+        },
+        {
+            "name": "z",
+            "type": "up",
+            "time_delay": 0.07562613487243652
+        },
+        {
+            "name": "z",
+            "type": "down",
+            "time_delay": 0.09105801582336426
+        },
+        {
+            "name": "z",
+            "type": "up",
+            "time_delay": 0.07667660713195801
+        },
+        {
+            "name": "z",
+            "type": "down",
+            "time_delay": 0.0839076042175293
+        },
+        {
+            "name": "z",
+            "type": "up",
+            "time_delay": 0.06553888320922852
+        },
+        {
+            "name": "z",
+            "type": "down",
+            "time_delay": 0.0859830379486084
+        },
+        {
+            "name": "z",
+            "type": "up",
+            "time_delay": 0.07649946212768555
+        },
+        {
+            "name": "z",
+            "type": "down",
+            "time_delay": 0.08918523788452148
+        },
+        {
+            "name": "z",
+            "type": "up",
+            "time_delay": 0.051996707916259766
+        },
+        {
+            "name": "z",
+            "type": "down",
+            "time_delay": 0.09380316734313965
+        },
+        {
+            "name": "z",
+            "type": "up",
+            "time_delay": 0.0629873275756836
+        },
+        {
+            "name": "a",
+            "type": "down",
+            "time_delay": 0.11199402809143066
+        },
+        {
+            "name": "a",
+            "type": "up",
+            "time_delay": 0.06870198249816895
+        },
+        {
+            "name": "z",
+            "type": "down",
+            "time_delay": 0.08679366111755371
+        },
+        {
+            "name": "z",
+            "type": "up",
+            "time_delay": 0.10269737243652344
+        },
+        {
+            "name": "z",
+            "type": "down",
+            "time_delay": 0.0630643367767334
+        },
+        {
+            "name": "z",
+            "type": "up",
+            "time_delay": 0.09491729736328125
+        },
+        {
+            "name": "z",
+            "type": "down",
+            "time_delay": 0.07886862754821777
+        },
+        {
+            "name": "z",
+            "type": "up",
+            "time_delay": 0.10140037536621094
+        },
+        {
+            "name": "z",
+            "type": "down",
+            "time_delay": 0.06914305686950684
+        },
+        {
+            "name": "z",
+            "type": "up",
+            "time_delay": 0.11205124855041504
+        },
+        {
+            "name": "z",
+            "type": "down",
+            "time_delay": 0.07583355903625488
+        },
+        {
+            "name": "z",
+            "type": "up",
+            "time_delay": 0.0420382022857666
+        },
+        {
+            "name": "l",
+            "type": "down",
+            "time_delay": 0.27007412910461426
+        },
+        {
+            "name": "l",
+            "type": "up",
+            "time_delay": 0.09576177597045898
+        },
+        {
+            "name": "left",
+            "type": "up",
+            "time_delay": 1.1311790943145752
+        },
+        {
+            "name": "right",
+            "type": "down",
+            "time_delay": 1.1008505821228027
+        },
+        {
+            "name": "a",
+            "type": "down",
+            "time_delay": 0.22438931465148926
+        },
+        {
+            "name": "a",
+            "type": "up",
+            "time_delay": 0.057991981506347656
+        },
+        {
+            "name": "a",
+            "type": "down",
+            "time_delay": 0.08413314819335938
+        },
+        {
+            "name": "a",
+            "type": "up",
+            "time_delay": 0.0711355209350586
+        },
+        {
+            "name": "a",
+            "type": "down",
+            "time_delay": 0.08766531944274902
+        },
+        {
+            "name": "a",
+            "type": "up",
+            "time_delay": 0.06045198440551758
+        },
+        {
+            "name": "right",
+            "type": "up",
+            "time_delay": 0.061690568923950195
+        },
+        {
+            "name": "a",
+            "type": "down",
+            "time_delay": 0.04573488235473633
+        },
+        {
+            "name": "a",
+            "type": "up",
+            "time_delay": 0.04602193832397461
+        },
+        {
+            "name": "l",
+            "type": "down",
+            "time_delay": 0.09804940223693848
+        },
+        {
+            "name": "l",
+            "type": "up",
+            "time_delay": 0.0762336254119873
+        },
+        {
+            "name": "l",
+            "type": "down",
+            "time_delay": 0.07449936866760254
+        },
+        {
+            "name": "l",
+            "type": "up",
+            "time_delay": 0.05517148971557617
+        },
+        {
+            "name": "down",
+            "type": "down",
+            "time_delay": 2.0453920364379883
+        },
+        {
+            "name": "space",
+            "type": "down",
+            "time_delay": 0.2666804790496826
+        },
+        {
+            "name": "space",
+            "type": "up",
+            "time_delay": 0.08176302909851074
+        },
+        {
+            "name": "space",
+            "type": "down",
+            "time_delay": 0.0759422779083252
+        },
+        {
+            "name": "space",
+            "type": "up",
+            "time_delay": 0.07991242408752441
+        },
+        {
+            "name": "space",
+            "type": "down",
+            "time_delay": 0.07741880416870117
+        },
+        {
+            "name": "space",
+            "type": "up",
+            "time_delay": 0.08103275299072266
+        },
+        {
+            "name": "space",
+            "type": "down",
+            "time_delay": 0.22117161750793457
+        },
+        {
+            "name": "space",
+            "type": "up",
+            "time_delay": 0.08526492118835449
+        },
+        {
+            "name": "left",
+            "type": "down",
+            "time_delay": 0.12712740898132324
+        },
+        {
+            "name": "down",
+            "type": "up",
+            "time_delay": 0.044956207275390625
+        },
+        {
+            "name": "left",
+            "type": "up",
+            "time_delay": 0.28945374488830566
+        },
+        {
+            "name": "z",
+            "type": "down",
+            "time_delay": 0.18190646171569824
+        },
+        {
+            "name": "z",
+            "type": "up",
+            "time_delay": 0.07942605018615723
+        },
+        {
+            "name": "z",
+            "type": "down",
+            "time_delay": 0.08328795433044434
+        },
+        {
+            "name": "z",
+            "type": "up",
+            "time_delay": 0.08767890930175781
+        },
+        {
+            "name": "z",
+            "type": "down",
+            "time_delay": 0.0729222297668457
+        },
+        {
+            "name": "right",
+            "type": "down",
+            "time_delay": 0.06830167770385742
+        },
+        {
+            "name": "z",
+            "type": "up",
+            "time_delay": 0.03113579750061035
+        },
+        {
+            "name": "z",
+            "type": "down",
+            "time_delay": 0.08004593849182129
+        },
+        {
+            "name": "l",
+            "type": "down",
+            "time_delay": 0.08020901679992676
+        },
+        {
+            "name": "z",
+            "type": "up",
+            "time_delay": 0.02586674690246582
+        },
+        {
+            "name": "l",
+            "type": "up",
+            "time_delay": 0.04003787040710449
+        },
+        {
+            "name": "z",
+            "type": "down",
+            "time_delay": 0.02946925163269043
+        },
+        {
+            "name": "l",
+            "type": "down",
+            "time_delay": 0.044974327087402344
+        },
+        {
+            "name": "l",
+            "type": "up",
+            "time_delay": 0.07796955108642578
+        },
+        {
+            "name": "z",
+            "type": "up",
+            "time_delay": 0.0011518001556396484
+        },
+        {
+            "name": "z",
+            "type": "down",
+            "time_delay": 0.05634665489196777
+        },
+        {
+            "name": "right",
+            "type": "up",
+            "time_delay": 0.03527712821960449
+        },
+        {
+            "name": "z",
+            "type": "up",
+            "time_delay": 0.06622695922851562
+        },
+        {
+            "name": "z",
+            "type": "down",
+            "time_delay": 0.08778023719787598
+        },
+        {
+            "name": "z",
+            "type": "up",
+            "time_delay": 0.09172558784484863
+        },
+        {
+            "name": "z",
+            "type": "down",
+            "time_delay": 0.0946054458618164
+        },
+        {
+            "name": "z",
+            "type": "up",
+            "time_delay": 0.09156441688537598
+        },
+        {
+            "name": "z",
+            "type": "down",
+            "time_delay": 0.08530163764953613
+        },
+        {
+            "name": "z",
+            "type": "up",
+            "time_delay": 0.09955501556396484
+        },
+        {
+            "name": "z",
+            "type": "down",
+            "time_delay": 0.0977180004119873
+        },
+        {
+            "name": "z",
+            "type": "up",
+            "time_delay": 0.06801795959472656
+        },
+        {
+            "name": "l",
+            "type": "down",
+            "time_delay": 1.741764783859253
+        },
+        {
+            "name": "l",
+            "type": "up",
+            "time_delay": 0.07180595397949219
+        },
+        {
+            "name": "l",
+            "type": "down",
+            "time_delay": 0.08856725692749023
+        },
+        {
+            "name": "l",
+            "type": "up",
+            "time_delay": 0.01775670051574707
+        },
+        {
+            "name": "right",
+            "type": "down",
+            "time_delay": 2.213320016860962
+        },
+        {
+            "name": "right",
+            "type": "down",
+            "time_delay": 0.49901437759399414
+        },
+        {
+            "name": "right",
+            "type": "down",
+            "time_delay": 0.03186178207397461
+        },
+        {
+            "name": "right",
+            "type": "down",
+            "time_delay": 0.03213834762573242
+        },
+        {
+            "name": "right",
+            "type": "down",
+            "time_delay": 0.03378415107727051
+        },
+        {
+            "name": "right",
+            "type": "down",
+            "time_delay": 0.030823707580566406
+        },
+        {
+            "name": "right",
+            "type": "down",
+            "time_delay": 0.035262346267700195
+        },
+        {
+            "name": "right",
+            "type": "down",
+            "time_delay": 0.030344724655151367
+        },
+        {
+            "name": "right",
+            "type": "down",
+            "time_delay": 0.03442049026489258
+        },
+        {
+            "name": "right",
+            "type": "down",
+            "time_delay": 0.03130078315734863
+        },
+        {
+            "name": "right",
+            "type": "down",
+            "time_delay": 0.03417062759399414
+        },
+        {
+            "name": "right",
+            "type": "down",
+            "time_delay": 0.03113412857055664
+        },
+        {
+            "name": "right",
+            "type": "down",
+            "time_delay": 0.03412771224975586
+        },
+        {
+            "name": "right",
+            "type": "down",
+            "time_delay": 0.030684232711791992
+        },
+        {
+            "name": "right",
+            "type": "down",
+            "time_delay": 0.036047935485839844
+        },
+        {
+            "name": "right",
+            "type": "down",
+            "time_delay": 0.03182840347290039
+        },
+        {
+            "name": "right",
+            "type": "down",
+            "time_delay": 0.03410053253173828
+        },
+        {
+            "name": "right",
+            "type": "down",
+            "time_delay": 0.02891993522644043
+        },
+        {
+            "name": "right",
+            "type": "down",
+            "time_delay": 0.03391575813293457
+        },
+        {
+            "name": "right",
+            "type": "down",
+            "time_delay": 0.034180402755737305
+        },
+        {
+            "name": "right",
+            "type": "down",
+            "time_delay": 0.033341407775878906
+        },
+        {
+            "name": "right",
+            "type": "down",
+            "time_delay": 0.03123188018798828
+        },
+        {
+            "name": "right",
+            "type": "down",
+            "time_delay": 0.034949302673339844
+        },
+        {
+            "name": "right",
+            "type": "down",
+            "time_delay": 0.030022382736206055
+        },
+        {
+            "name": "right",
+            "type": "down",
+            "time_delay": 0.03450918197631836
+        },
+        {
+            "name": "right",
+            "type": "down",
+            "time_delay": 0.03038191795349121
+        },
+        {
+            "name": "right",
+            "type": "down",
+            "time_delay": 0.03517913818359375
+        },
+        {
+            "name": "right",
+            "type": "down",
+            "time_delay": 0.030870676040649414
+        },
+        {
+            "name": "a",
+            "type": "down",
+            "time_delay": 0.013875007629394531
+        },
+        {
+            "name": "a",
+            "type": "up",
+            "time_delay": 0.07162976264953613
+        },
+        {
+            "name": "a",
+            "type": "down",
+            "time_delay": 0.06058239936828613
+        },
+        {
+            "name": "a",
+            "type": "up",
+            "time_delay": 0.056481361389160156
+        },
+        {
+            "name": "z",
+            "type": "down",
+            "time_delay": 0.12338089942932129
+        },
+        {
+            "name": "z",
+            "type": "up",
+            "time_delay": 0.0880424976348877
+        },
+        {
+            "name": "z",
+            "type": "down",
+            "time_delay": 0.06221818923950195
+        },
+        {
+            "name": "z",
+            "type": "up",
+            "time_delay": 0.07756519317626953
+        },
+        {
+            "name": "z",
+            "type": "down",
+            "time_delay": 0.0627908706665039
+        },
+        {
+            "name": "z",
+            "type": "up",
+            "time_delay": 0.08856463432312012
+        },
+        {
+            "name": "z",
+            "type": "down",
+            "time_delay": 0.06094503402709961
+        },
+        {
+            "name": "z",
+            "type": "up",
+            "time_delay": 0.08855319023132324
+        },
+        {
+            "name": "z",
+            "type": "down",
+            "time_delay": 0.06101059913635254
+        },
+        {
+            "name": "z",
+            "type": "up",
+            "time_delay": 0.08504581451416016
+        },
+        {
+            "name": "z",
+            "type": "down",
+            "time_delay": 0.06180977821350098
+        },
+        {
+            "name": "z",
+            "type": "up",
+            "time_delay": 0.08801960945129395
+        },
+        {
+            "name": "z",
+            "type": "down",
+            "time_delay": 0.06115531921386719
+        },
+        {
+            "name": "z",
+            "type": "up",
+            "time_delay": 0.08829498291015625
+        },
+        {
+            "name": "l",
+            "type": "down",
+            "time_delay": 0.0656735897064209
+        },
+        {
+            "name": "z",
+            "type": "down",
+            "time_delay": 0.004950523376464844
+        },
+        {
+            "name": "right",
+            "type": "up",
+            "time_delay": 0.03494143486022949
+        },
+        {
+            "name": "l",
+            "type": "up",
+            "time_delay": 0.027333974838256836
+        },
+        {
+            "name": "z",
+            "type": "up",
+            "time_delay": 0.019533634185791016
+        },
+        {
+            "name": "l",
+            "type": "down",
+            "time_delay": 0.041254520416259766
+        },
+        {
+            "name": "z",
+            "type": "down",
+            "time_delay": 0.028891324996948242
+        },
+        {
+            "name": "l",
+            "type": "up",
+            "time_delay": 0.04002189636230469
+        },
+        {
+            "name": "z",
+            "type": "up",
+            "time_delay": 0.05170869827270508
+        },
+        {
+            "name": "l",
+            "type": "down",
+            "time_delay": 0.01613903045654297
+        },
+        {
+            "name": "l",
+            "type": "up",
+            "time_delay": 0.0641927719116211
+        },
+        {
+            "name": "z",
+            "type": "down",
+            "time_delay": 0.00451207160949707
+        },
+        {
+            "name": "z",
+            "type": "up",
+            "time_delay": 0.08678078651428223
+        },
+        {
+            "name": "z",
+            "type": "down",
+            "time_delay": 0.07134389877319336
+        },
+        {
+            "name": "z",
+            "type": "up",
+            "time_delay": 0.09160661697387695
+        },
+        {
+            "name": "z",
+            "type": "down",
+            "time_delay": 0.07047128677368164
+        },
+        {
+            "name": "z",
+            "type": "up",
+            "time_delay": 0.08952856063842773
+        },
+        {
+            "name": "l",
+            "type": "down",
+            "time_delay": 1.4231507778167725
+        },
+        {
+            "name": "l",
+            "type": "up",
+            "time_delay": 0.04514598846435547
+        },
+        {
+            "name": "l",
+            "type": "down",
+            "time_delay": 0.07992124557495117
+        },
+        {
+            "name": "l",
+            "type": "up",
+            "time_delay": 0.06879234313964844
+        },
+        {
+            "name": "l",
+            "type": "down",
+            "time_delay": 0.07230234146118164
+        },
+        {
+            "name": "l",
+            "type": "up",
+            "time_delay": 0.061981916427612305
+        },
+        {
+            "name": "l",
+            "type": "down",
+            "time_delay": 0.08110499382019043
+        },
+        {
+            "name": "l",
+            "type": "up",
+            "time_delay": 0.06056666374206543
+        },
+        {
+            "name": "l",
+            "type": "down",
+            "time_delay": 0.08398890495300293
+        },
+        {
+            "name": "l",
+            "type": "up",
+            "time_delay": 0.05422806739807129
+        },
+        {
+            "name": "l",
+            "type": "down",
+            "time_delay": 0.07857227325439453
+        },
+        {
+            "name": "l",
+            "type": "up",
+            "time_delay": 0.05711102485656738
+        },
+        {
+            "name": "right",
+            "type": "down",
+            "time_delay": 2.1735551357269287
+        },
+        {
+            "name": "right",
+            "type": "down",
+            "time_delay": 0.49786949157714844
+        },
+        {
+            "name": "right",
+            "type": "down",
+            "time_delay": 0.029115915298461914
+        },
+        {
+            "name": "right",
+            "type": "down",
+            "time_delay": 0.035149335861206055
+        },
+        {
+            "name": "right",
+            "type": "down",
+            "time_delay": 0.030067920684814453
+        },
+        {
+            "name": "right",
+            "type": "down",
+            "time_delay": 0.03491091728210449
+        },
+        {
+            "name": "a",
+            "type": "down",
+            "time_delay": 0.017950057983398438
+        },
+        {
+            "name": "a",
+            "type": "up",
+            "time_delay": 0.07779669761657715
+        },
+        {
+            "name": "a",
+            "type": "down",
+            "time_delay": 0.07798314094543457
+        },
+        {
+            "name": "a",
+            "type": "up",
+            "time_delay": 0.07200193405151367
+        },
+        {
+            "name": "z",
+            "type": "down",
+            "time_delay": 0.23630952835083008
+        },
+        {
+            "name": "z",
+            "type": "up",
+            "time_delay": 0.04719257354736328
+        },
+        {
+            "name": "z",
+            "type": "down",
+            "time_delay": 0.09465837478637695
+        },
+        {
+            "name": "z",
+            "type": "up",
+            "time_delay": 0.07879519462585449
+        },
+        {
+            "name": "z",
+            "type": "down",
+            "time_delay": 0.07678508758544922
+        },
+        {
+            "name": "z",
+            "type": "up",
+            "time_delay": 0.07872128486633301
+        },
+        {
+            "name": "z",
+            "type": "down",
+            "time_delay": 0.0795750617980957
+        },
+        {
+            "name": "z",
+            "type": "up",
+            "time_delay": 0.07804536819458008
+        },
+        {
+            "name": "z",
+            "type": "down",
+            "time_delay": 0.0766305923461914
+        },
+        {
+            "name": "z",
+            "type": "up",
+            "time_delay": 0.09018158912658691
+        },
+        {
+            "name": "z",
+            "type": "down",
+            "time_delay": 0.07707619667053223
+        },
+        {
+            "name": "z",
+            "type": "up",
+            "time_delay": 0.08499765396118164
+        },
+        {
+            "name": "z",
+            "type": "down",
+            "time_delay": 0.0792689323425293
+        },
+        {
+            "name": "z",
+            "type": "up",
+            "time_delay": 0.08008146286010742
+        },
+        {
+            "name": "a",
+            "type": "down",
+            "time_delay": 0.1948223114013672
+        },
+        {
+            "name": "a",
+            "type": "up",
+            "time_delay": 0.06962966918945312
+        },
+        {
+            "name": "a",
+            "type": "down",
+            "time_delay": 0.0874333381652832
+        },
+        {
+            "name": "a",
+            "type": "up",
+            "time_delay": 0.08717560768127441
+        },
+        {
+            "name": "a",
+            "type": "down",
+            "time_delay": 0.4509012699127197
+        },
+        {
+            "name": "a",
+            "type": "up",
+            "time_delay": 0.07821154594421387
+        },
+        {
+            "name": "a",
+            "type": "down",
+            "time_delay": 0.07097578048706055
+        },
+        {
+            "name": "a",
+            "type": "up",
+            "time_delay": 0.08909106254577637
+        },
+        {
+            "name": "a",
+            "type": "down",
+            "time_delay": 0.3544034957885742
+        },
+        {
+            "name": "a",
+            "type": "up",
+            "time_delay": 0.05652904510498047
+        },
+        {
+            "name": "a",
+            "type": "down",
+            "time_delay": 0.07924318313598633
+        },
+        {
+            "name": "a",
+            "type": "up",
+            "time_delay": 0.06667184829711914
+        },
+        {
+            "name": "a",
+            "type": "down",
+            "time_delay": 0.0880582332611084
+        },
+        {
+            "name": "a",
+            "type": "up",
+            "time_delay": 0.09464001655578613
+        },
+        {
+            "name": "right",
+            "type": "up",
+            "time_delay": 0.957129716873169
+        },
+        {
+            "name": "t",
+            "type": "down",
+            "time_delay": 0.20977544784545898
+        },
+        {
+            "name": "t",
+            "type": "up",
+            "time_delay": 0.08862590789794922
+        },
+        {
+            "name": "left",
+            "type": "down",
+            "time_delay": 3.1534252166748047
+        },
+        {
+            "name": "a",
+            "type": "down",
+            "time_delay": 0.18333745002746582
+        },
+        {
+            "name": "a",
+            "type": "up",
+            "time_delay": 0.0766446590423584
+        },
+        {
+            "name": "l",
+            "type": "down",
+            "time_delay": 0.3456752300262451
+        },
+        {
+            "name": "l",
+            "type": "up",
+            "time_delay": 0.08416986465454102
+        },
+        {
+            "name": "l",
+            "type": "down",
+            "time_delay": 0.06133604049682617
+        },
+        {
+            "name": "l",
+            "type": "up",
+            "time_delay": 0.06179666519165039
+        },
+        {
+            "name": "l",
+            "type": "down",
+            "time_delay": 0.07061123847961426
+        },
+        {
+            "name": "l",
+            "type": "up",
+            "time_delay": 0.07395267486572266
+        },
+        {
+            "name": "l",
+            "type": "down",
+            "time_delay": 0.060836076736450195
+        },
+        {
+            "name": "l",
+            "type": "up",
+            "time_delay": 0.06884622573852539
+        },
+        {
+            "name": "l",
+            "type": "down",
+            "time_delay": 0.06393909454345703
+        },
+        {
+            "name": "l",
+            "type": "up",
+            "time_delay": 0.07812786102294922
+        },
+        {
+            "name": "l",
+            "type": "down",
+            "time_delay": 2.159153699874878
+        },
+        {
+            "name": "l",
+            "type": "up",
+            "time_delay": 0.06317472457885742
+        },
+        {
+            "name": "l",
+            "type": "down",
+            "time_delay": 0.07198095321655273
+        },
+        {
+            "name": "l",
+            "type": "up",
+            "time_delay": 0.07162213325500488
+        },
+        {
+            "name": "l",
+            "type": "down",
+            "time_delay": 0.06004452705383301
+        },
+        {
+            "name": "l",
+            "type": "up",
+            "time_delay": 0.07014608383178711
+        },
+        {
+            "name": "z",
+            "type": "down",
+            "time_delay": 2.7780537605285645
+        },
+        {
+            "name": "z",
+            "type": "up",
+            "time_delay": 0.06235480308532715
+        },
+        {
+            "name": "z",
+            "type": "down",
+            "time_delay": 0.08324456214904785
+        },
+        {
+            "name": "z",
+            "type": "up",
+            "time_delay": 0.07311344146728516
+        },
+        {
+            "name": "z",
+            "type": "down",
+            "time_delay": 0.08416438102722168
+        },
+        {
+            "name": "z",
+            "type": "up",
+            "time_delay": 0.07165980339050293
+        },
+        {
+            "name": "z",
+            "type": "down",
+            "time_delay": 0.08855271339416504
+        },
+        {
+            "name": "z",
+            "type": "up",
+            "time_delay": 0.07765316963195801
+        },
+        {
+            "name": "z",
+            "type": "down",
+            "time_delay": 0.18198060989379883
+        },
+        {
+            "name": "z",
+            "type": "up",
+            "time_delay": 0.03914499282836914
+        },
+        {
+            "name": "z",
+            "type": "down",
+            "time_delay": 0.0848991870880127
+        },
+        {
+            "name": "z",
+            "type": "up",
+            "time_delay": 0.07034444808959961
+        },
+        {
+            "name": "z",
+            "type": "down",
+            "time_delay": 0.07726478576660156
+        },
+        {
+            "name": "z",
+            "type": "up",
+            "time_delay": 0.09676837921142578
+        },
+        {
+            "name": "a",
+            "type": "down",
+            "time_delay": 0.11888742446899414
+        },
+        {
+            "name": "a",
+            "type": "up",
+            "time_delay": 0.08340144157409668
+        },
+        {
+            "name": "z",
+            "type": "down",
+            "time_delay": 0.343461275100708
+        },
+        {
+            "name": "z",
+            "type": "up",
+            "time_delay": 0.058591365814208984
+        },
+        {
+            "name": "z",
+            "type": "down",
+            "time_delay": 0.08966827392578125
+        },
+        {
+            "name": "z",
+            "type": "up",
+            "time_delay": 0.08420586585998535
+        },
+        {
+            "name": "a",
+            "type": "down",
+            "time_delay": 0.20766377449035645
+        },
+        {
+            "name": "a",
+            "type": "up",
+            "time_delay": 0.0608060359954834
+        },
+        {
+            "name": "a",
+            "type": "down",
+            "time_delay": 0.0967092514038086
+        },
+        {
+            "name": "a",
+            "type": "up",
+            "time_delay": 0.06081676483154297
+        },
+        {
+            "name": "l",
+            "type": "down",
+            "time_delay": 0.1842036247253418
+        },
+        {
+            "name": "l",
+            "type": "up",
+            "time_delay": 0.07198834419250488
+        },
+        {
+            "name": "l",
+            "type": "down",
+            "time_delay": 0.047477006912231445
+        },
+        {
+            "name": "l",
+            "type": "up",
+            "time_delay": 0.07690215110778809
+        },
+        {
+            "name": "a",
+            "type": "down",
+            "time_delay": 2.5863707065582275
+        },
+        {
+            "name": "a",
+            "type": "up",
+            "time_delay": 0.0451502799987793
+        },
+        {
+            "name": "a",
+            "type": "down",
+            "time_delay": 0.07883501052856445
+        },
+        {
+            "name": "a",
+            "type": "up",
+            "time_delay": 0.08075976371765137
+        },
+        {
+            "name": "a",
+            "type": "down",
+            "time_delay": 0.07792878150939941
+        },
+        {
+            "name": "a",
+            "type": "up",
+            "time_delay": 0.06883358955383301
+        },
+        {
+            "name": "a",
+            "type": "down",
+            "time_delay": 0.07975149154663086
+        },
+        {
+            "name": "a",
+            "type": "up",
+            "time_delay": 0.07558965682983398
+        },
+        {
+            "name": "l",
+            "type": "down",
+            "time_delay": 0.1460554599761963
+        },
+        {
+            "name": "l",
+            "type": "up",
+            "time_delay": 0.07889366149902344
+        },
+        {
+            "name": "l",
+            "type": "down",
+            "time_delay": 0.04548358917236328
+        },
+        {
+            "name": "l",
+            "type": "up",
+            "time_delay": 0.07160091400146484
+        },
+        {
+            "name": "a",
+            "type": "down",
+            "time_delay": 2.8951690196990967
+        },
+        {
+            "name": "a",
+            "type": "up",
+            "time_delay": 0.0691077709197998
+        },
+        {
+            "name": "z",
+            "type": "down",
+            "time_delay": 0.13631796836853027
+        },
+        {
+            "name": "z",
+            "type": "up",
+            "time_delay": 0.07984185218811035
+        },
+        {
+            "name": "z",
+            "type": "down",
+            "time_delay": 0.0769810676574707
+        },
+        {
+            "name": "z",
+            "type": "up",
+            "time_delay": 0.07035613059997559
+        },
+        {
+            "name": "z",
+            "type": "down",
+            "time_delay": 0.0888221263885498
+        },
+        {
+            "name": "z",
+            "type": "up",
+            "time_delay": 0.0994720458984375
+        },
+        {
+            "name": "z",
+            "type": "down",
+            "time_delay": 0.07101082801818848
+        },
+        {
+            "name": "z",
+            "type": "up",
+            "time_delay": 0.08715152740478516
+        },
+        {
+            "name": "z",
+            "type": "down",
+            "time_delay": 0.07538819313049316
+        },
+        {
+            "name": "z",
+            "type": "up",
+            "time_delay": 0.0879204273223877
+        },
+        {
+            "name": "z",
+            "type": "down",
+            "time_delay": 0.07654714584350586
+        },
+        {
+            "name": "z",
+            "type": "up",
+            "time_delay": 0.08824324607849121
+        },
+        {
+            "name": "z",
+            "type": "down",
+            "time_delay": 0.07305622100830078
+        },
+        {
+            "name": "z",
+            "type": "up",
+            "time_delay": 0.1019134521484375
+        },
+        {
+            "name": "l",
+            "type": "down",
+            "time_delay": 0.27940845489501953
+        },
+        {
+            "name": "l",
+            "type": "up",
+            "time_delay": 0.10106563568115234
+        },
+        {
+            "name": "a",
+            "type": "down",
+            "time_delay": 2.753453254699707
+        },
+        {
+            "name": "a",
+            "type": "up",
+            "time_delay": 0.055055856704711914
+        },
+        {
+            "name": "a",
+            "type": "down",
+            "time_delay": 0.08291769027709961
+        },
+        {
+            "name": "a",
+            "type": "up",
+            "time_delay": 0.07095074653625488
+        },
+        {
+            "name": "a",
+            "type": "down",
+            "time_delay": 0.10300564765930176
+        },
+        {
+            "name": "a",
+            "type": "up",
+            "time_delay": 0.05750703811645508
+        },
+        {
+            "name": "l",
+            "type": "down",
+            "time_delay": 0.08740997314453125
+        },
+        {
+            "name": "l",
+            "type": "up",
+            "time_delay": 0.06918978691101074
+        },
+        {
+            "name": "l",
+            "type": "down",
+            "time_delay": 0.06177806854248047
+        },
+        {
+            "name": "l",
+            "type": "up",
+            "time_delay": 0.08227109909057617
+        },
+        {
+            "name": "left",
+            "type": "up",
+            "time_delay": 1.9630136489868164
+        },
+        {
+            "name": "left",
+            "type": "down",
+            "time_delay": 0.30683016777038574
+        },
+        {
+            "name": "z",
+            "type": "down",
+            "time_delay": 0.29137325286865234
+        },
+        {
+            "name": "z",
+            "type": "up",
+            "time_delay": 0.04089546203613281
+        },
+        {
+            "name": "z",
+            "type": "down",
+            "time_delay": 0.09397220611572266
+        },
+        {
+            "name": "z",
+            "type": "up",
+            "time_delay": 0.07071113586425781
+        },
+        {
+            "name": "z",
+            "type": "down",
+            "time_delay": 0.08656024932861328
+        },
+        {
+            "name": "z",
+            "type": "up",
+            "time_delay": 0.07030391693115234
+        },
+        {
+            "name": "z",
+            "type": "down",
+            "time_delay": 0.08598542213439941
+        },
+        {
+            "name": "z",
+            "type": "up",
+            "time_delay": 0.07720613479614258
+        },
+        {
+            "name": "z",
+            "type": "down",
+            "time_delay": 0.07215738296508789
+        },
+        {
+            "name": "z",
+            "type": "up",
+            "time_delay": 0.09980440139770508
+        },
+        {
+            "name": "a",
+            "type": "down",
+            "time_delay": 0.20793962478637695
+        },
+        {
+            "name": "a",
+            "type": "up",
+            "time_delay": 0.076690673828125
+        },
+        {
+            "name": "a",
+            "type": "down",
+            "time_delay": 0.6759297847747803
+        },
+        {
+            "name": "a",
+            "type": "up",
+            "time_delay": 0.06418991088867188
+        },
+        {
+            "name": "a",
+            "type": "down",
+            "time_delay": 0.07585620880126953
+        },
+        {
+            "name": "a",
+            "type": "up",
+            "time_delay": 0.06487774848937988
+        },
+        {
+            "name": "a",
+            "type": "down",
+            "time_delay": 0.07626509666442871
+        },
+        {
+            "name": "a",
+            "type": "up",
+            "time_delay": 0.07265639305114746
+        },
+        {
+            "name": "a",
+            "type": "down",
+            "time_delay": 0.08376789093017578
+        },
+        {
+            "name": "a",
+            "type": "up",
+            "time_delay": 0.06483840942382812
+        },
+        {
+            "name": "a",
+            "type": "down",
+            "time_delay": 0.08346676826477051
+        },
+        {
+            "name": "a",
+            "type": "up",
+            "time_delay": 0.056472063064575195
+        },
+        {
+            "name": "a",
+            "type": "down",
+            "time_delay": 0.08714652061462402
+        },
+        {
+            "name": "a",
+            "type": "up",
+            "time_delay": 0.07091426849365234
+        },
+        {
+            "name": "a",
+            "type": "down",
+            "time_delay": 0.07774639129638672
+        },
+        {
+            "name": "a",
+            "type": "up",
+            "time_delay": 0.07906389236450195
+        },
+        {
+            "name": "a",
+            "type": "down",
+            "time_delay": 0.06928157806396484
+        },
+        {
+            "name": "a",
+            "type": "up",
+            "time_delay": 0.12060093879699707
+        },
+        {
+            "name": "left",
+            "type": "up",
+            "time_delay": 0.3200864791870117
+        },
+        {
+            "name": "5",
+            "type": "down",
+            "time_delay": 1.073848009109497
+        },
+        {
+            "name": "5",
+            "type": "up",
+            "time_delay": 0.09390759468078613
+        },
+        {
+            "name": "enter",
+            "type": "down",
+            "time_delay": 1.2188763618469238
+        },
+        {
+            "name": "enter",
+            "type": "up",
+            "time_delay": 0.11295413970947266
+        },
+        {
+            "name": "5",
+            "type": "down",
+            "time_delay": 0.4323921203613281
+        },
+        {
+            "name": "5",
+            "type": "up",
+            "time_delay": 0.08546113967895508
+        },
+        {
+            "name": "enter",
+            "type": "down",
+            "time_delay": 0.5735156536102295
+        },
+        {
+            "name": "enter",
+            "type": "up",
+            "time_delay": 0.12412667274475098
+        },
+        {
+            "name": "5",
+            "type": "down",
+            "time_delay": 0.2928504943847656
+        },
+        {
+            "name": "5",
+            "type": "up",
+            "time_delay": 0.09486818313598633
+        },
+        {
+            "name": "enter",
+            "type": "down",
+            "time_delay": 0.2608487606048584
+        },
+        {
+            "name": "enter",
+            "type": "up",
+            "time_delay": 0.08772969245910645
+        },
+        {
+            "name": "l",
+            "type": "down",
+            "time_delay": 1.6913249492645264
+        },
+        {
+            "name": "l",
+            "type": "up",
+            "time_delay": 0.1345837116241455
+        },
+        {
+            "name": "l",
+            "type": "down",
+            "time_delay": 1.6796648502349854
+        },
+        {
+            "name": "l",
+            "type": "up",
+            "time_delay": 0.13326382637023926
+        },
+        {
+            "name": "l",
+            "type": "down",
+            "time_delay": 1.568537712097168
+        },
+        {
+            "name": "l",
+            "type": "up",
+            "time_delay": 0.11834168434143066
+        },
+        {
+            "name": "5",
+            "type": "down",
+            "time_delay": 5.152132034301758
+        },
+        {
+            "name": "5",
+            "type": "up",
+            "time_delay": 0.08735394477844238
+        },
+        {
+            "name": "enter",
+            "type": "down",
+            "time_delay": 0.2750234603881836
+        },
+        {
+            "name": "enter",
+            "type": "up",
+            "time_delay": 0.11233186721801758
+        },
+        {
+            "name": "5",
+            "type": "down",
+            "time_delay": 0.1253187656402588
+        },
+        {
+            "name": "5",
+            "type": "up",
+            "time_delay": 0.07829618453979492
+        },
+        {
+            "name": "enter",
+            "type": "down",
+            "time_delay": 0.12576055526733398
+        },
+        {
+            "name": "enter",
+            "type": "up",
+            "time_delay": 0.10225343704223633
+        },
+        {
+            "name": "5",
+            "type": "down",
+            "time_delay": 0.06333494186401367
+        },
+        {
+            "name": "5",
+            "type": "up",
+            "time_delay": 0.11112546920776367
+        },
+        {
+            "name": "enter",
+            "type": "down",
+            "time_delay": 0.17031121253967285
+        },
+        {
+            "name": "enter",
+            "type": "up",
+            "time_delay": 0.1102454662322998
+        },
+        {
+            "name": "5",
+            "type": "down",
+            "time_delay": 0.09264206886291504
+        },
+        {
+            "name": "5",
+            "type": "up",
+            "time_delay": 0.09553337097167969
+        },
+        {
+            "name": "enter",
+            "type": "down",
+            "time_delay": 0.0784451961517334
+        },
+        {
+            "name": "enter",
+            "type": "up",
+            "time_delay": 0.11028409004211426
+        },
+        {
+            "name": "5",
+            "type": "down",
+            "time_delay": 0.06750178337097168
+        },
+        {
+            "name": "5",
+            "type": "up",
+            "time_delay": 0.0960683822631836
+        },
+        {
+            "name": "enter",
+            "type": "down",
+            "time_delay": 0.03486919403076172
+        },
+        {
+            "name": "enter",
+            "type": "up",
+            "time_delay": 0.13358592987060547
+        },
+        {
+            "name": "5",
+            "type": "down",
+            "time_delay": 0.04866909980773926
+        },
+        {
+            "name": "5",
+            "type": "up",
+            "time_delay": 0.1091773509979248
+        },
+        {
+            "name": "enter",
+            "type": "down",
+            "time_delay": 0.06199193000793457
+        },
+        {
+            "name": "enter",
+            "type": "up",
+            "time_delay": 0.11864781379699707
+        },
+        {
+            "name": "5",
+            "type": "down",
+            "time_delay": 0.036545515060424805
+        },
+        {
+            "name": "5",
+            "type": "up",
+            "time_delay": 0.09482026100158691
+        },
+        {
+            "name": "enter",
+            "type": "down",
+            "time_delay": 0.02748417854309082
+        },
+        {
+            "name": "enter",
+            "type": "up",
+            "time_delay": 0.08550143241882324
+        },
+        {
+            "name": "5",
+            "type": "down",
+            "time_delay": 0.04147505760192871
+        },
+        {
+            "name": "5",
+            "type": "up",
+            "time_delay": 0.08669829368591309
+        },
+        {
+            "name": "enter",
+            "type": "down",
+            "time_delay": 0.08973169326782227
+        },
+        {
+            "name": "enter",
+            "type": "up",
+            "time_delay": 0.08418464660644531
+        },
+        {
+            "x": 718,
+            "y": 587,
+            "time_delay": 1.2923438549041748
+        }
+    ]
+]

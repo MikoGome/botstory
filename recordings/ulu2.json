@@ -1,0 +1,88 @@
+[
+    [
+        {
+            "name": "alt",
+            "type": "down",
+            "pos": [],
+            "time_delay": 1.5679244995117188
+        },
+        {
+            "name": "alt",
+            "type": "up",
+            "pos": [],
+            "time_delay": 0.1004648208618164
+        },
+        {
+            "name": "alt",
+            "type": "down",
+            "pos": [],
+            "time_delay": 0.5175206661224365
+        },
+        {
+            "name": "alt",
+            "type": "up",
+            "pos": [],
+            "time_delay": 0.08850812911987305
+        },
+        {
+            "name": "alt",
+            "type": "down",
+            "pos": [],
+            "time_delay": 0.572493314743042
+        },
+        {
+            "name": "alt",
+            "type": "up",
+            "pos": [],
+            "time_delay": 0.08254694938659668
+        },
+        {
+            "name": "alt",
+            "type": "down",
+            "pos": [],
+            "time_delay": 0.5206341743469238
+        },
+        {
+            "name": "alt",
+            "type": "up",
+            "pos": [],
+            "time_delay": 0.07809138298034668
+        },
+        {
+            "name": "alt",
+            "type": "down",
+            "pos": [],
+            "time_delay": 0.4965040683746338
+        },
+        {
+            "name": "alt",
+            "type": "up",
+            "pos": [],
+            "time_delay": 0.09641814231872559
+        },
+        {
+            "name": "space",
+            "type": "down",
+            "pos": [],
+            "time_delay": 0.5248513221740723
+        },
+        {
+            "name": "space",
+            "type": "up",
+            "pos": [],
+            "time_delay": 0.06800341606140137
+        },
+        {
+            "name": "space",
+            "type": "down",
+            "pos": [],
+            "time_delay": 0.09714269638061523
+        },
+        {
+            "name": "space",
+            "type": "up",
+            "pos": [],
+            "time_delay": 0.08312678337097168
+        }
+    ]
+]

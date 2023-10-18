@@ -1,0 +1,14 @@
+{
+    "enable_pet_feeder": "y",
+    "pet_number": 3,
+    "enable_hp": "y",
+    "hp_pot_key": "page up",
+    "enable_mp": "y",
+    "mp_pot_key": "page down",
+    "enable_warning_mode": "y",
+    "wave_clear_key": "space",
+    "rep_num": 2,
+    "jump_key": "alt",
+    "pet_food_key": "o",
+    "enable_teleport_check": "n"
+}
